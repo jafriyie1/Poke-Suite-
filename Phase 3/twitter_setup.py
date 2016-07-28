@@ -5,13 +5,8 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import json
 
-#Variables for access
 
 
-access_token = "702882031500308480-FEkkuJZElvOri8xn75RuUUbKS2AujJR"
-access_token_secret = "c2pJvG1CFYS74VBcNfkfT5FZzVwdO1Ft2rBfbneyBvvuP"
-consumer_key = "Tc1cnYxACqTA2vEESjFZKgrYd"
-consumer_secret = "I5vPI2bWEZ8MdCoitS34dR4vbkZydq49jZToXwz6saNi184v6Q"
 
 #Basic Listener
 
@@ -27,6 +22,11 @@ class StdOutListener(StreamListener):
 
 if __name__ == "__main__":
     #This handles Twitter Auth
+    access_token = input("Please input access_token: ")
+    access_token_secret = input("Please input access_secret_token: ")
+    consumer_key = input("Please input consumer_key: ")
+    consumer_secret = input("Please input consumer_secret: ")
+
     try:
         listener = StdOutListener()
         auth = OAuthHandler(consumer_key, consumer_secret)
