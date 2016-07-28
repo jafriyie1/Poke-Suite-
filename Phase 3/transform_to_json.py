@@ -3,7 +3,7 @@ import json
 
 tweets = []
 
-poke_tweet  = open("poke_tweets.txt", "r")
+poke_tweet  = open("/Users/Joel/Desktop/Tweet Data/poke_tweets.txt", "r")
 
 for line in poke_tweet:
     try:
@@ -14,16 +14,6 @@ for line in poke_tweet:
 
 
 poke_tweet.close()
-poke_tweet_two = open("poke_tweets_two.txt", "r")
-for line in poke_tweet_two:
-    try:
-        tweet = json.loads(line)
-        tweets.append(tweet)
-    except:
-        continue
-
-poke_tweet_two.close()
-
 with open("final_poke_tweets.json", "w") as objectfile:
     json.dump(tweets, objectfile, indent=4)
 
