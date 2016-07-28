@@ -1,0 +1,7 @@
+package main
+import breeze.linalg._
+class NeuronLayer(number_of_neurons: Int, number_of_inputs_per_neuron: Int) {
+  def computeSynapse(): Unit =  {
+    var synaptic_weights = 2 * (DenseVector(number_of_neurons, number_of_inputs_per_neuron) - 1)
+  }
+}

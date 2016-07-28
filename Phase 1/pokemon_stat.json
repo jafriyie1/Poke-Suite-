@@ -1,0 +1,6402 @@
+[
+ {
+  "Sp Sweeper": 159,
+  "Ph Sweeper": 94,
+  "Sp Tank": 203,
+  "Wall": 130,
+  "Ph Tank": 122,
+  "Name": "Bulbasaur"
+ },
+ {
+  "Sp Sweeper": 2,
+  "Ph Sweeper": 110,
+  "Sp Tank": 180,
+  "Wall": 125,
+  "Ph Tank": 3,
+  "Name": "Ivysaur"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 98,
+  "Sp Tank": 180,
+  "Wall": 263,
+  "Ph Tank": 200,
+  "Name": "Venusaur"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 140,
+  "Sp Tank": 4,
+  "Wall": 202,
+  "Ph Tank": 223,
+  "Name": "Venusaur"
+ },
+ {
+  "Sp Sweeper": 323,
+  "Ph Sweeper": 162,
+  "Sp Tank": 110,
+  "Wall": 117,
+  "Ph Tank": 132,
+  "Name": "Charmander"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 3,
+  "Sp Tank": 122,
+  "Wall": 5,
+  "Ph Tank": 160,
+  "Name": "Charmeleon"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 242,
+  "Sp Tank": 241,
+  "Wall": 145,
+  "Ph Tank": 184,
+  "Name": "Charizard"
+ },
+ {
+  "Sp Sweeper": 6,
+  "Ph Sweeper": 95,
+  "Sp Tank": 230,
+  "Wall": 162,
+  "Ph Tank": 6,
+  "Name": "Charizard"
+ },
+ {
+  "Sp Sweeper": 194,
+  "Ph Sweeper": 181,
+  "Sp Tank": 204,
+  "Wall": 274,
+  "Ph Tank": 215,
+  "Name": "Charizard"
+ },
+ {
+  "Sp Sweeper": 241,
+  "Ph Sweeper": 209,
+  "Sp Tank": 7,
+  "Wall": 259,
+  "Ph Tank": 182,
+  "Name": "Squirtle"
+ },
+ {
+  "Sp Sweeper": 271,
+  "Ph Sweeper": 230,
+  "Sp Tank": 114,
+  "Wall": 91,
+  "Ph Tank": 173,
+  "Name": "Wartortle"
+ },
+ {
+  "Sp Sweeper": 93,
+  "Ph Sweeper": 6,
+  "Sp Tank": 143,
+  "Wall": 8,
+  "Ph Tank": 123,
+  "Name": "Blastoise"
+ },
+ {
+  "Sp Sweeper": 121,
+  "Ph Sweeper": 274,
+  "Sp Tank": 284,
+  "Wall": 145,
+  "Ph Tank": 161,
+  "Name": "Blastoise"
+ },
+ {
+  "Sp Sweeper": 9,
+  "Ph Sweeper": 113,
+  "Sp Tank": 213,
+  "Wall": 183,
+  "Ph Tank": 9,
+  "Name": "Caterpie"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 219,
+  "Sp Tank": 75,
+  "Wall": 314,
+  "Ph Tank": 250,
+  "Name": "Metapod"
+ },
+ {
+  "Sp Sweeper": 223,
+  "Ph Sweeper": 163,
+  "Sp Tank": 11,
+  "Wall": 65,
+  "Ph Tank": 65,
+  "Name": "Butterfree"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 181,
+  "Sp Tank": 50,
+  "Wall": 50,
+  "Ph Tank": 130,
+  "Name": "Weedle"
+ },
+ {
+  "Sp Sweeper": 55,
+  "Ph Sweeper": 10,
+  "Sp Tank": 95,
+  "Wall": 12,
+  "Ph Tank": 160,
+  "Name": "Kakuna"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 40,
+  "Sp Tank": 90,
+  "Wall": 170,
+  "Ph Tank": 85,
+  "Name": "Beedrill"
+ },
+ {
+  "Sp Sweeper": 13,
+  "Ph Sweeper": 75,
+  "Sp Tank": 60,
+  "Wall": 65,
+  "Ph Tank": 14,
+  "Name": "Beedrill"
+ },
+ {
+  "Sp Sweeper": 40,
+  "Ph Sweeper": 190,
+  "Sp Tank": 165,
+  "Wall": 120,
+  "Ph Tank": 50,
+  "Name": "Pidgey"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 70,
+  "Sp Tank": 15,
+  "Wall": 120,
+  "Ph Tank": 130,
+  "Name": "Pidgeotto"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 60,
+  "Sp Tank": 95,
+  "Wall": 295,
+  "Ph Tank": 185,
+  "Name": "Pidgeot"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 15,
+  "Sp Tank": 85,
+  "Wall": 16,
+  "Ph Tank": 91,
+  "Name": "Pidgeot"
+ },
+ {
+  "Sp Sweeper": 101,
+  "Ph Sweeper": 125,
+  "Sp Tank": 168,
+  "Wall": 70,
+  "Ph Tank": 131,
+  "Name": "Rattata"
+ },
+ {
+  "Sp Sweeper": 17,
+  "Ph Sweeper": 190,
+  "Sp Tank": 171,
+  "Wall": 115,
+  "Ph Tank": 18,
+  "Name": "Raticate"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 115,
+  "Sp Tank": 201,
+  "Wall": 228,
+  "Ph Tank": 140,
+  "Name": "Spearow"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 121,
+  "Sp Tank": 19,
+  "Wall": 256,
+  "Ph Tank": 160,
+  "Name": "Fearow"
+ },
+ {
+  "Sp Sweeper": 243,
+  "Ph Sweeper": 181,
+  "Sp Tank": 60,
+  "Wall": 128,
+  "Ph Tank": 100,
+  "Name": "Ekans"
+ },
+ {
+  "Sp Sweeper": 97,
+  "Ph Sweeper": 18,
+  "Sp Tank": 141,
+  "Wall": 20,
+  "Ph Tank": 147,
+  "Name": "Arbok"
+ },
+ {
+  "Sp Sweeper": 178,
+  "Ph Sweeper": 215,
+  "Sp Tank": 101,
+  "Wall": 120,
+  "Ph Tank": 130,
+  "Name": "Pikachu"
+ },
+ {
+  "Sp Sweeper": 21,
+  "Ph Sweeper": 91,
+  "Sp Tank": 161,
+  "Wall": 90,
+  "Ph Tank": 22,
+  "Name": "Raichu"
+ },
+ {
+  "Sp Sweeper": 62,
+  "Ph Sweeper": 185,
+  "Sp Tank": 115,
+  "Wall": 191,
+  "Ph Tank": 122,
+  "Name": "Sandshrew"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 101,
+  "Sp Tank": 24,
+  "Wall": 95,
+  "Ph Tank": 104,
+  "Name": "Sandslash"
+ },
+ {
+  "Sp Sweeper": 133,
+  "Ph Sweeper": 190,
+  "Sp Tank": 144,
+  "Wall": 165,
+  "Ph Tank": 208,
+  "Name": "Nidoran\u2640"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 23,
+  "Sp Tank": 95,
+  "Wall": 25,
+  "Ph Tank": 140,
+  "Name": "Nidorina"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 94,
+  "Sp Tank": 195,
+  "Wall": 100,
+  "Ph Tank": 200,
+  "Name": "Nidoqueen"
+ },
+ {
+  "Sp Sweeper": 26,
+  "Ph Sweeper": 154,
+  "Sp Tank": 60,
+  "Wall": 145,
+  "Ph Tank": 27,
+  "Name": "Nidoran\u2642"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 125,
+  "Sp Tank": 165,
+  "Wall": 165,
+  "Ph Tank": 50,
+  "Name": "Nidorino"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 200,
+  "Sp Tank": 29,
+  "Wall": 110,
+  "Ph Tank": 210,
+  "Name": "Nidoking"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 115,
+  "Sp Tank": 80,
+  "Wall": 88,
+  "Ph Tank": 147,
+  "Name": "Clefairy"
+ },
+ {
+  "Sp Sweeper": 81,
+  "Ph Sweeper": 28,
+  "Sp Tank": 129,
+  "Wall": 30,
+  "Ph Tank": 111,
+  "Name": "Clefable"
+ },
+ {
+  "Sp Sweeper": 118,
+  "Ph Sweeper": 100,
+  "Sp Tank": 262,
+  "Wall": 110,
+  "Ph Tank": 168,
+  "Name": "Vulpix"
+ },
+ {
+  "Sp Sweeper": 31,
+  "Ph Sweeper": 99,
+  "Sp Tank": 90,
+  "Wall": 179,
+  "Ph Tank": 32,
+  "Name": "Ninetales"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 192,
+  "Sp Tank": 137,
+  "Wall": 126,
+  "Ph Tank": 80,
+  "Name": "Jigglypuff"
+ },
+ {
+  "Sp Sweeper": 97,
+  "Ph Sweeper": 151,
+  "Sp Tank": 34,
+  "Wall": 120,
+  "Ph Tank": 129,
+  "Name": "Wigglytuff"
+ },
+ {
+  "Sp Sweeper": 173,
+  "Ph Sweeper": 107,
+  "Sp Tank": 160,
+  "Wall": 187,
+  "Ph Tank": 233,
+  "Name": "Zubat"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 33,
+  "Sp Tank": 93,
+  "Wall": 35,
+  "Ph Tank": 95,
+  "Name": "Golbat"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 110,
+  "Sp Tank": 258,
+  "Wall": 125,
+  "Ph Tank": 130,
+  "Name": "Oddish"
+ },
+ {
+  "Sp Sweeper": 36,
+  "Ph Sweeper": 179,
+  "Sp Tank": 115,
+  "Wall": 143,
+  "Ph Tank": 37,
+  "Name": "Gloom"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 183,
+  "Sp Tank": 176,
+  "Wall": 143,
+  "Ph Tank": 115,
+  "Name": "Vileplume"
+ },
+ {
+  "Sp Sweeper": 81,
+  "Ph Sweeper": 155,
+  "Sp Tank": 39,
+  "Wall": 181,
+  "Ph Tank": 151,
+  "Name": "Paras"
+ },
+ {
+  "Sp Sweeper": 248,
+  "Ph Sweeper": 106,
+  "Sp Tank": 70,
+  "Wall": 65,
+  "Ph Tank": 160,
+  "Name": "Parasect"
+ },
+ {
+  "Sp Sweeper": 65,
+  "Ph Sweeper": 38,
+  "Sp Tank": 115,
+  "Wall": 40,
+  "Ph Tank": 130,
+  "Name": "Venonat"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 181,
+  "Sp Tank": 115,
+  "Wall": 135,
+  "Ph Tank": 100,
+  "Name": "Venomoth"
+ },
+ {
+  "Sp Sweeper": 41,
+  "Ph Sweeper": 65,
+  "Sp Tank": 155,
+  "Wall": 80,
+  "Ph Tank": 42,
+  "Name": "Diglett"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 235,
+  "Sp Tank": 80,
+  "Wall": 220,
+  "Ph Tank": 140,
+  "Name": "Dugtrio"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 85,
+  "Sp Tank": 44,
+  "Wall": 105,
+  "Ph Tank": 105,
+  "Name": "Meowth"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 170,
+  "Sp Tank": 160,
+  "Wall": 105,
+  "Ph Tank": 205,
+  "Name": "Persian"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 43,
+  "Sp Tank": 165,
+  "Wall": 45,
+  "Ph Tank": 160,
+  "Name": "Psyduck"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 140,
+  "Sp Tank": 145,
+  "Wall": 200,
+  "Ph Tank": 95,
+  "Name": "Golduck"
+ },
+ {
+  "Sp Sweeper": 46,
+  "Ph Sweeper": 135,
+  "Sp Tank": 90,
+  "Wall": 125,
+  "Ph Tank": 47,
+  "Name": "Mankey"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 250,
+  "Sp Tank": 100,
+  "Wall": 220,
+  "Ph Tank": 140,
+  "Name": "Primeape"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 70,
+  "Sp Tank": 49,
+  "Wall": 85,
+  "Ph Tank": 105,
+  "Name": "Growlithe"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 125,
+  "Sp Tank": 165,
+  "Wall": 155,
+  "Ph Tank": 205,
+  "Name": "Arcanine"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 48,
+  "Sp Tank": 80,
+  "Wall": 50,
+  "Ph Tank": 130,
+  "Name": "Poliwag"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 95,
+  "Sp Tank": 155,
+  "Wall": 80,
+  "Ph Tank": 200,
+  "Name": "Poliwhirl"
+ },
+ {
+  "Sp Sweeper": 51,
+  "Ph Sweeper": 125,
+  "Sp Tank": 130,
+  "Wall": 130,
+  "Ph Tank": 52,
+  "Name": "Poliwrath"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 80,
+  "Sp Tank": 185,
+  "Wall": 115,
+  "Ph Tank": 80,
+  "Name": "Abra"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 170,
+  "Sp Tank": 54,
+  "Wall": 180,
+  "Ph Tank": 130,
+  "Name": "Kadabra"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 135,
+  "Sp Tank": 115,
+  "Wall": 107,
+  "Ph Tank": 148,
+  "Name": "Alakazam"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 53,
+  "Sp Tank": 160,
+  "Wall": 55,
+  "Ph Tank": 180,
+  "Name": "Alakazam"
+ },
+ {
+  "Sp Sweeper": 167,
+  "Ph Sweeper": 130,
+  "Sp Tank": 120,
+  "Wall": 175,
+  "Ph Tank": 150,
+  "Name": "Machop"
+ },
+ {
+  "Sp Sweeper": 56,
+  "Ph Sweeper": 100,
+  "Sp Tank": 155,
+  "Wall": 115,
+  "Ph Tank": 57,
+  "Name": "Machoke"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 238,
+  "Sp Tank": 130,
+  "Wall": 195,
+  "Ph Tank": 130,
+  "Name": "Machamp"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 105,
+  "Sp Tank": 59,
+  "Wall": 130,
+  "Ph Tank": 115,
+  "Name": "Bellsprout"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 200,
+  "Sp Tank": 180,
+  "Wall": 205,
+  "Ph Tank": 250,
+  "Name": "Weepinbell"
+ },
+ {
+  "Sp Sweeper": 195,
+  "Ph Sweeper": 58,
+  "Sp Tank": 90,
+  "Wall": 60,
+  "Ph Tank": 130,
+  "Name": "Victreebel"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 120,
+  "Sp Tank": 180,
+  "Wall": 80,
+  "Ph Tank": 155,
+  "Name": "Tentacool"
+ },
+ {
+  "Sp Sweeper": 61,
+  "Ph Sweeper": 190,
+  "Sp Tank": 140,
+  "Wall": 130,
+  "Ph Tank": 62,
+  "Name": "Tentacruel"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 120,
+  "Sp Tank": 110,
+  "Wall": 275,
+  "Ph Tank": 160,
+  "Name": "Geodude"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 140,
+  "Sp Tank": 64,
+  "Wall": 195,
+  "Ph Tank": 35,
+  "Name": "Graveler"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 165,
+  "Sp Tank": 190,
+  "Wall": 140,
+  "Ph Tank": 140,
+  "Name": "Golem"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 63,
+  "Sp Tank": 95,
+  "Wall": 65,
+  "Ph Tank": 255,
+  "Name": "Ponyta"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 160,
+  "Sp Tank": 215,
+  "Wall": 230,
+  "Ph Tank": 200,
+  "Name": "Rapidash"
+ },
+ {
+  "Sp Sweeper": 65,
+  "Ph Sweeper": 65,
+  "Sp Tank": 70,
+  "Wall": 115,
+  "Ph Tank": 66,
+  "Name": "Slowpoke"
+ },
+ {
+  "Sp Sweeper": 270,
+  "Ph Sweeper": 195,
+  "Sp Tank": 145,
+  "Wall": 155,
+  "Ph Tank": 70,
+  "Name": "Slowbro"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 325,
+  "Sp Tank": 68,
+  "Wall": 95,
+  "Ph Tank": 170,
+  "Name": "Slowbro"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 115,
+  "Sp Tank": 150,
+  "Wall": 185,
+  "Ph Tank": 255,
+  "Name": "Magnemite"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 67,
+  "Sp Tank": 110,
+  "Wall": 69,
+  "Ph Tank": 110,
+  "Name": "Magneton"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 110,
+  "Sp Tank": 160,
+  "Wall": 100,
+  "Ph Tank": 145,
+  "Name": "Farfetch'd"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 210,
+  "Sp Tank": 170,
+  "Wall": 140,
+  "Ph Tank": 71,
+  "Name": "Doduo"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 115,
+  "Sp Tank": 110,
+  "Wall": 215,
+  "Ph Tank": 170,
+  "Name": "Dodrio"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 140,
+  "Sp Tank": 73,
+  "Wall": 120,
+  "Ph Tank": 75,
+  "Name": "Seel"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 175,
+  "Sp Tank": 200,
+  "Wall": 170,
+  "Ph Tank": 265,
+  "Name": "Dewgong"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 72,
+  "Sp Tank": 180,
+  "Wall": 74,
+  "Ph Tank": 50,
+  "Name": "Grimer"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 150,
+  "Sp Tank": 215,
+  "Wall": 60,
+  "Ph Tank": 130,
+  "Name": "Muk"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 135,
+  "Sp Tank": 100,
+  "Wall": 210,
+  "Ph Tank": 76,
+  "Name": "Shellder"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 170,
+  "Sp Tank": 175,
+  "Wall": 275,
+  "Ph Tank": 120,
+  "Name": "Cloyster"
+ },
+ {
+  "Sp Sweeper": 250,
+  "Ph Sweeper": 80,
+  "Sp Tank": 78,
+  "Wall": 155,
+  "Ph Tank": 140,
+  "Name": "Gastly"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 165,
+  "Sp Tank": 160,
+  "Wall": 205,
+  "Ph Tank": 215,
+  "Name": "Haunter"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 77,
+  "Sp Tank": 130,
+  "Wall": 79,
+  "Ph Tank": 55,
+  "Name": "Gengar"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 130,
+  "Sp Tank": 285,
+  "Wall": 80,
+  "Ph Tank": 105,
+  "Name": "Gengar"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 170,
+  "Sp Tank": 160,
+  "Wall": 185,
+  "Ph Tank": 80,
+  "Name": "Onix"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 195,
+  "Sp Tank": 80,
+  "Wall": 355,
+  "Ph Tank": 210,
+  "Name": "Drowzee"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 130,
+  "Sp Tank": 82,
+  "Wall": 140,
+  "Ph Tank": 105,
+  "Name": "Hypno"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 105,
+  "Sp Tank": 190,
+  "Wall": 130,
+  "Ph Tank": 215,
+  "Name": "Krabby"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 81,
+  "Sp Tank": 120,
+  "Wall": 83,
+  "Ph Tank": 118,
+  "Name": "Kingler"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 150,
+  "Sp Tank": 115,
+  "Wall": 120,
+  "Ph Tank": 160,
+  "Name": "Voltorb"
+ },
+ {
+  "Sp Sweeper": 84,
+  "Ph Sweeper": 155,
+  "Sp Tank": 160,
+  "Wall": 130,
+  "Ph Tank": 85,
+  "Name": "Electrode"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 169,
+  "Sp Tank": 90,
+  "Wall": 190,
+  "Ph Tank": 120,
+  "Name": "Exeggcute"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 110,
+  "Sp Tank": 87,
+  "Wall": 90,
+  "Ph Tank": 100,
+  "Name": "Exeggutor"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 210,
+  "Sp Tank": 165,
+  "Wall": 140,
+  "Ph Tank": 265,
+  "Name": "Cubone"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 86,
+  "Sp Tank": 130,
+  "Wall": 88,
+  "Ph Tank": 65,
+  "Name": "Marowak"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 115,
+  "Sp Tank": 280,
+  "Wall": 90,
+  "Ph Tank": 155,
+  "Name": "Hitmonlee"
+ },
+ {
+  "Sp Sweeper": 89,
+  "Ph Sweeper": 150,
+  "Sp Tank": 85,
+  "Wall": 180,
+  "Ph Tank": 90,
+  "Name": "Hitmonchan"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 180,
+  "Sp Tank": 165,
+  "Wall": 155,
+  "Ph Tank": 70,
+  "Name": "Lickitung"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 115,
+  "Sp Tank": 92,
+  "Wall": 155,
+  "Ph Tank": 275,
+  "Name": "Koffing"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 105,
+  "Sp Tank": 135,
+  "Wall": 115,
+  "Ph Tank": 95,
+  "Name": "Weezing"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 91,
+  "Sp Tank": 95,
+  "Wall": 93,
+  "Ph Tank": 210,
+  "Name": "Rhyhorn"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 130,
+  "Sp Tank": 195,
+  "Wall": 170,
+  "Ph Tank": 175,
+  "Name": "Rhydon"
+ },
+ {
+  "Sp Sweeper": 94,
+  "Ph Sweeper": 65,
+  "Sp Tank": 300,
+  "Wall": 125,
+  "Ph Tank": 94,
+  "Name": "Chansey"
+ },
+ {
+  "Sp Sweeper": 205,
+  "Ph Sweeper": 145,
+  "Sp Tank": 115,
+  "Wall": 235,
+  "Ph Tank": 265,
+  "Name": "Tangela"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 240,
+  "Sp Tank": 96,
+  "Wall": 100,
+  "Ph Tank": 205,
+  "Name": "Kangaskhan"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 195,
+  "Sp Tank": 133,
+  "Wall": 90,
+  "Ph Tank": 195,
+  "Name": "Kangaskhan"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 95,
+  "Sp Tank": 143,
+  "Wall": 97,
+  "Ph Tank": 140,
+  "Name": "Horsea"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 75,
+  "Sp Tank": 145,
+  "Wall": 188,
+  "Ph Tank": 155,
+  "Name": "Seadra"
+ },
+ {
+  "Sp Sweeper": 98,
+  "Ph Sweeper": 93,
+  "Sp Tank": 125,
+  "Wall": 195,
+  "Ph Tank": 99,
+  "Name": "Goldeen"
+ },
+ {
+  "Sp Sweeper": 50,
+  "Ph Sweeper": 270,
+  "Sp Tank": 130,
+  "Wall": 220,
+  "Ph Tank": 100,
+  "Name": "Seaking"
+ },
+ {
+  "Sp Sweeper": 245,
+  "Ph Sweeper": 75,
+  "Sp Tank": 101,
+  "Wall": 155,
+  "Ph Tank": 80,
+  "Name": "Staryu"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 205,
+  "Sp Tank": 160,
+  "Wall": 190,
+  "Ph Tank": 210,
+  "Name": "Starmie"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 100,
+  "Sp Tank": 120,
+  "Wall": 102,
+  "Ph Tank": 100,
+  "Name": "Mr. Mime"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 110,
+  "Sp Tank": 245,
+  "Wall": 105,
+  "Ph Tank": 150,
+  "Name": "Scyther"
+ },
+ {
+  "Sp Sweeper": 103,
+  "Ph Sweeper": 120,
+  "Sp Tank": 75,
+  "Wall": 180,
+  "Ph Tank": 104,
+  "Name": "Jynx"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 185,
+  "Sp Tank": 125,
+  "Wall": 195,
+  "Ph Tank": 90,
+  "Name": "Electabuzz"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 180,
+  "Sp Tank": 106,
+  "Wall": 95,
+  "Ph Tank": 190,
+  "Name": "Magmar"
+ },
+ {
+  "Sp Sweeper": 250,
+  "Ph Sweeper": 85,
+  "Sp Tank": 145,
+  "Wall": 207,
+  "Ph Tank": 213,
+  "Name": "Pinsir"
+ },
+ {
+  "Sp Sweeper": 122,
+  "Ph Sweeper": 105,
+  "Sp Tank": 184,
+  "Wall": 107,
+  "Ph Tank": 111,
+  "Name": "Pinsir"
+ },
+ {
+  "Sp Sweeper": 181,
+  "Ph Sweeper": 130,
+  "Sp Tank": 240,
+  "Wall": 145,
+  "Ph Tank": 85,
+  "Name": "Tauros"
+ },
+ {
+  "Sp Sweeper": 108,
+  "Ph Sweeper": 173,
+  "Sp Tank": 95,
+  "Wall": 130,
+  "Ph Tank": 109,
+  "Name": "Magikarp"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 239,
+  "Sp Tank": 150,
+  "Wall": 180,
+  "Ph Tank": 105,
+  "Name": "Gyarados"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 90,
+  "Sp Tank": 111,
+  "Wall": 145,
+  "Ph Tank": 210,
+  "Name": "Gyarados"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 100,
+  "Sp Tank": 60,
+  "Wall": 110,
+  "Ph Tank": 205,
+  "Name": "Lapras"
+ },
+ {
+  "Sp Sweeper": 55,
+  "Ph Sweeper": 110,
+  "Sp Tank": 250,
+  "Wall": 112,
+  "Ph Tank": 85,
+  "Name": "Ditto"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 155,
+  "Sp Tank": 360,
+  "Wall": 90,
+  "Ph Tank": 55,
+  "Name": "Eevee"
+ },
+ {
+  "Sp Sweeper": 113,
+  "Ph Sweeper": 180,
+  "Sp Tank": 160,
+  "Wall": 10,
+  "Ph Tank": 114,
+  "Name": "Vaporeon"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 270,
+  "Sp Tank": 185,
+  "Wall": 220,
+  "Ph Tank": 140,
+  "Name": "Jolteon"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 85,
+  "Sp Tank": 115,
+  "Wall": 130,
+  "Ph Tank": 175,
+  "Name": "Flareon"
+ },
+ {
+  "Sp Sweeper": 265,
+  "Ph Sweeper": 115,
+  "Sp Tank": 160,
+  "Wall": 225,
+  "Ph Tank": 305,
+  "Name": "Porygon"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 115,
+  "Sp Tank": 110,
+  "Wall": 116,
+  "Ph Tank": 130,
+  "Name": "Omanyte"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 120,
+  "Sp Tank": 195,
+  "Wall": 95,
+  "Ph Tank": 150,
+  "Name": "Omastar"
+ },
+ {
+  "Sp Sweeper": 117,
+  "Ph Sweeper": 225,
+  "Sp Tank": 98,
+  "Wall": 160,
+  "Ph Tank": 118,
+  "Name": "Kabuto"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 125,
+  "Sp Tank": 160,
+  "Wall": 155,
+  "Ph Tank": 85,
+  "Name": "Kabutops"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 180,
+  "Sp Tank": 120,
+  "Wall": 133,
+  "Ph Tank": 157,
+  "Name": "Aerodactyl"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 130,
+  "Sp Tank": 125,
+  "Wall": 130,
+  "Ph Tank": 140,
+  "Name": "Aerodactyl"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 119,
+  "Sp Tank": 160,
+  "Wall": 121,
+  "Ph Tank": 215,
+  "Name": "Snorlax"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 145,
+  "Sp Tank": 225,
+  "Wall": 185,
+  "Ph Tank": 135,
+  "Name": "Articuno"
+ },
+ {
+  "Sp Sweeper": 122,
+  "Ph Sweeper": 100,
+  "Sp Tank": 160,
+  "Wall": 110,
+  "Ph Tank": 123,
+  "Name": "Zapdos"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 230,
+  "Sp Tank": 145,
+  "Wall": 230,
+  "Ph Tank": 135,
+  "Name": "Moltres"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 190,
+  "Sp Tank": 125,
+  "Wall": 210,
+  "Ph Tank": 85,
+  "Name": "Dratini"
+ },
+ {
+  "Sp Sweeper": 195,
+  "Ph Sweeper": 215,
+  "Sp Tank": 180,
+  "Wall": 188,
+  "Ph Tank": 207,
+  "Name": "Dragonair"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 124,
+  "Sp Tank": 152,
+  "Wall": 126,
+  "Ph Tank": 193,
+  "Name": "Dragonite"
+ },
+ {
+  "Sp Sweeper": 188,
+  "Ph Sweeper": 210,
+  "Sp Tank": 235,
+  "Wall": 185,
+  "Ph Tank": 210,
+  "Name": "Mewtwo"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 140,
+  "Sp Tank": 170,
+  "Wall": 225,
+  "Ph Tank": 127,
+  "Name": "Mewtwo"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 207,
+  "Sp Tank": 210,
+  "Wall": 275,
+  "Ph Tank": 155,
+  "Name": "Mewtwo"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 140,
+  "Sp Tank": 129,
+  "Wall": 150,
+  "Ph Tank": 195,
+  "Name": "Mew"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 260,
+  "Sp Tank": 35,
+  "Wall": 90,
+  "Ph Tank": 95,
+  "Name": "Chikorita"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 128,
+  "Sp Tank": 204,
+  "Wall": 130,
+  "Ph Tank": 141,
+  "Name": "Bayleef"
+ },
+ {
+  "Sp Sweeper": 206,
+  "Ph Sweeper": 110,
+  "Sp Tank": 334,
+  "Wall": 160,
+  "Ph Tank": 236,
+  "Name": "Meganium"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 65,
+  "Sp Tank": 145,
+  "Wall": 264,
+  "Ph Tank": 131,
+  "Name": "Cyndaquil"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 274,
+  "Sp Tank": 96,
+  "Wall": 305,
+  "Ph Tank": 180,
+  "Name": "Quilava"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 151,
+  "Sp Tank": 133,
+  "Wall": 96,
+  "Ph Tank": 96,
+  "Name": "Typhlosion"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 145,
+  "Sp Tank": 110,
+  "Wall": 110,
+  "Ph Tank": 170,
+  "Name": "Totodile"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 132,
+  "Sp Tank": 125,
+  "Wall": 134,
+  "Ph Tank": 175,
+  "Name": "Croconaw"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 96,
+  "Sp Tank": 220,
+  "Wall": 205,
+  "Ph Tank": 195,
+  "Name": "Feraligatr"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 105,
+  "Sp Tank": 160,
+  "Wall": 125,
+  "Ph Tank": 136,
+  "Name": "Sentret"
+ },
+ {
+  "Sp Sweeper": 205,
+  "Ph Sweeper": 285,
+  "Sp Tank": 100,
+  "Wall": 235,
+  "Ph Tank": 205,
+  "Name": "Furret"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 240,
+  "Sp Tank": 138,
+  "Wall": 125,
+  "Ph Tank": 130,
+  "Name": "Hoothoot"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 195,
+  "Sp Tank": 145,
+  "Wall": 75,
+  "Ph Tank": 190,
+  "Name": "Noctowl"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 137,
+  "Sp Tank": 185,
+  "Wall": 139,
+  "Ph Tank": 170,
+  "Name": "Ledyba"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 160,
+  "Sp Tank": 165,
+  "Wall": 185,
+  "Ph Tank": 135,
+  "Name": "Ledian"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 140,
+  "Sp Tank": 145,
+  "Wall": 170,
+  "Ph Tank": 141,
+  "Name": "Spinarak"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 265,
+  "Sp Tank": 235,
+  "Wall": 235,
+  "Ph Tank": 135,
+  "Name": "Ariados"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 110,
+  "Sp Tank": 142,
+  "Wall": 190,
+  "Ph Tank": 170,
+  "Name": "Crobat"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 195,
+  "Sp Tank": 165,
+  "Wall": 285,
+  "Ph Tank": 260,
+  "Name": "Chinchou"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 142,
+  "Sp Tank": 175,
+  "Wall": 143,
+  "Ph Tank": 95,
+  "Name": "Lanturn"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 135,
+  "Sp Tank": 315,
+  "Wall": 175,
+  "Ph Tank": 170,
+  "Name": "Pichu"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 220,
+  "Sp Tank": 225,
+  "Wall": 185,
+  "Ph Tank": 145,
+  "Name": "Cleffa"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 335,
+  "Sp Tank": 190,
+  "Wall": 265,
+  "Ph Tank": 215,
+  "Name": "Igglybuff"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 180,
+  "Sp Tank": 147,
+  "Wall": 215,
+  "Ph Tank": 190,
+  "Name": "Togepi"
+ },
+ {
+  "Sp Sweeper": 265,
+  "Ph Sweeper": 190,
+  "Sp Tank": 100,
+  "Wall": 114,
+  "Ph Tank": 136,
+  "Name": "Togetic"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 146,
+  "Sp Tank": 149,
+  "Wall": 148,
+  "Ph Tank": 140,
+  "Name": "Natu"
+ },
+ {
+  "Sp Sweeper": 154,
+  "Ph Sweeper": 210,
+  "Sp Tank": 286,
+  "Wall": 140,
+  "Ph Tank": 214,
+  "Name": "Xatu"
+ },
+ {
+  "Sp Sweeper": 149,
+  "Ph Sweeper": 109,
+  "Sp Tank": 284,
+  "Wall": 229,
+  "Ph Tank": 150,
+  "Name": "Mareep"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 196,
+  "Sp Tank": 320,
+  "Wall": 286,
+  "Ph Tank": 244,
+  "Name": "Flaaffy"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 180,
+  "Sp Tank": 150,
+  "Wall": 284,
+  "Ph Tank": 290,
+  "Name": "Ampharos"
+ },
+ {
+  "Sp Sweeper": 306,
+  "Ph Sweeper": 240,
+  "Sp Tank": 314,
+  "Wall": 290,
+  "Ph Tank": 296,
+  "Name": "Ampharos"
+ },
+ {
+  "Sp Sweeper": 334,
+  "Ph Sweeper": 150,
+  "Sp Tank": 200,
+  "Wall": 151,
+  "Ph Tank": 200,
+  "Name": "Bellossom"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 254,
+  "Sp Tank": 175,
+  "Wall": 200,
+  "Ph Tank": 94,
+  "Name": "Marill"
+ },
+ {
+  "Sp Sweeper": 152,
+  "Ph Sweeper": 220,
+  "Sp Tank": 123,
+  "Wall": 114,
+  "Ph Tank": 153,
+  "Name": "Azumarill"
+ },
+ {
+  "Sp Sweeper": 114,
+  "Ph Sweeper": 300,
+  "Sp Tank": 162,
+  "Wall": 220,
+  "Ph Tank": 143,
+  "Name": "Sudowoodo"
+ },
+ {
+  "Sp Sweeper": 142,
+  "Ph Sweeper": 94,
+  "Sp Tank": 155,
+  "Wall": 163,
+  "Ph Tank": 182,
+  "Name": "Politoed"
+ },
+ {
+  "Sp Sweeper": 280,
+  "Ph Sweeper": 122,
+  "Sp Tank": 110,
+  "Wall": 117,
+  "Ph Tank": 132,
+  "Name": "Hoppip"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 154,
+  "Sp Tank": 122,
+  "Wall": 156,
+  "Ph Tank": 160,
+  "Name": "Skiploom"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 183,
+  "Sp Tank": 241,
+  "Wall": 145,
+  "Ph Tank": 184,
+  "Name": "Jumpluff"
+ },
+ {
+  "Sp Sweeper": 157,
+  "Ph Sweeper": 95,
+  "Sp Tank": 87,
+  "Wall": 162,
+  "Ph Tank": 158,
+  "Name": "Aipom"
+ },
+ {
+  "Sp Sweeper": 194,
+  "Ph Sweeper": 181,
+  "Sp Tank": 138,
+  "Wall": 162,
+  "Ph Tank": 92,
+  "Name": "Sunkern"
+ },
+ {
+  "Sp Sweeper": 129,
+  "Ph Sweeper": 209,
+  "Sp Tank": 160,
+  "Wall": 117,
+  "Ph Tank": 160,
+  "Name": "Sunflora"
+ },
+ {
+  "Sp Sweeper": 208,
+  "Ph Sweeper": 108,
+  "Sp Tank": 162,
+  "Wall": 183,
+  "Ph Tank": 268,
+  "Name": "Yanma"
+ },
+ {
+  "Sp Sweeper": 157,
+  "Ph Sweeper": 159,
+  "Sp Tank": 80,
+  "Wall": 161,
+  "Ph Tank": 55,
+  "Name": "Wooper"
+ },
+ {
+  "Sp Sweeper": 66,
+  "Ph Sweeper": 122,
+  "Sp Tank": 204,
+  "Wall": 80,
+  "Ph Tank": 166,
+  "Name": "Quagsire"
+ },
+ {
+  "Sp Sweeper": 162,
+  "Ph Sweeper": 205,
+  "Sp Tank": 86,
+  "Wall": 140,
+  "Ph Tank": 163,
+  "Name": "Espeon"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 114,
+  "Sp Tank": 120,
+  "Wall": 146,
+  "Ph Tank": 92,
+  "Name": "Umbreon"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 135,
+  "Sp Tank": 165,
+  "Wall": 146,
+  "Ph Tank": 100,
+  "Name": "Murkrow"
+ },
+ {
+  "Sp Sweeper": 246,
+  "Ph Sweeper": 80,
+  "Sp Tank": 120,
+  "Wall": 75,
+  "Ph Tank": 150,
+  "Name": "Slowking"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 164,
+  "Sp Tank": 85,
+  "Wall": 166,
+  "Ph Tank": 140,
+  "Name": "Misdreavus"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 172,
+  "Sp Tank": 120,
+  "Wall": 165,
+  "Ph Tank": 90,
+  "Name": "Unown"
+ },
+ {
+  "Sp Sweeper": 167,
+  "Ph Sweeper": 50,
+  "Sp Tank": 100,
+  "Wall": 100,
+  "Ph Tank": 168,
+  "Name": "Wobbuffet"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 215,
+  "Sp Tank": 220,
+  "Wall": 200,
+  "Ph Tank": 120,
+  "Name": "Girafarig"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 70,
+  "Sp Tank": 170,
+  "Wall": 200,
+  "Ph Tank": 170,
+  "Name": "Pineco"
+ },
+ {
+  "Sp Sweeper": 245,
+  "Ph Sweeper": 130,
+  "Sp Tank": 112,
+  "Wall": 105,
+  "Ph Tank": 169,
+  "Name": "Forretress"
+ },
+ {
+  "Sp Sweeper": 123,
+  "Ph Sweeper": 169,
+  "Sp Tank": 116,
+  "Wall": 171,
+  "Ph Tank": 143,
+  "Name": "Dunsparce"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 150,
+  "Sp Tank": 70,
+  "Wall": 152,
+  "Ph Tank": 100,
+  "Name": "Gligar"
+ },
+ {
+  "Sp Sweeper": 172,
+  "Ph Sweeper": 76,
+  "Sp Tank": 60,
+  "Wall": 55,
+  "Ph Tank": 173,
+  "Name": "Steelix"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 259,
+  "Sp Tank": 45,
+  "Wall": 133,
+  "Ph Tank": 100,
+  "Name": "Steelix"
+ },
+ {
+  "Sp Sweeper": 53,
+  "Ph Sweeper": 95,
+  "Sp Tank": 175,
+  "Wall": 55,
+  "Ph Tank": 45,
+  "Name": "Snubbull"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 40,
+  "Sp Tank": 105,
+  "Wall": 40,
+  "Ph Tank": 165,
+  "Name": "Granbull"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 174,
+  "Sp Tank": 125,
+  "Wall": 176,
+  "Ph Tank": 120,
+  "Name": "Qwilfish"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 60,
+  "Sp Tank": 130,
+  "Wall": 185,
+  "Ph Tank": 120,
+  "Name": "Scizor"
+ },
+ {
+  "Sp Sweeper": 177,
+  "Ph Sweeper": 85,
+  "Sp Tank": 190,
+  "Wall": 95,
+  "Ph Tank": 178,
+  "Name": "Scizor"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 245,
+  "Sp Tank": 75,
+  "Wall": 205,
+  "Ph Tank": 165,
+  "Name": "Shuckle"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 140,
+  "Sp Tank": 180,
+  "Wall": 100,
+  "Ph Tank": 80,
+  "Name": "Heracross"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 170,
+  "Sp Tank": 140,
+  "Wall": 100,
+  "Ph Tank": 185,
+  "Name": "Heracross"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 179,
+  "Sp Tank": 160,
+  "Wall": 181,
+  "Ph Tank": 170,
+  "Name": "Sneasel"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 110,
+  "Sp Tank": 305,
+  "Wall": 205,
+  "Ph Tank": 140,
+  "Name": "Teddiursa"
+ },
+ {
+  "Sp Sweeper": 181,
+  "Ph Sweeper": 110,
+  "Sp Tank": 140,
+  "Wall": 200,
+  "Ph Tank": 182,
+  "Name": "Ursaring"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 265,
+  "Sp Tank": 60,
+  "Wall": 270,
+  "Ph Tank": 190,
+  "Name": "Slugma"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 210,
+  "Sp Tank": 184,
+  "Wall": 60,
+  "Ph Tank": 70,
+  "Name": "Magcargo"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 130,
+  "Sp Tank": 140,
+  "Wall": 100,
+  "Ph Tank": 260,
+  "Name": "Swinub"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 183,
+  "Sp Tank": 215,
+  "Wall": 185,
+  "Ph Tank": 60,
+  "Name": "Piloswine"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 70,
+  "Sp Tank": 265,
+  "Wall": 95,
+  "Ph Tank": 145,
+  "Name": "Corsola"
+ },
+ {
+  "Sp Sweeper": 186,
+  "Ph Sweeper": 130,
+  "Sp Tank": 85,
+  "Wall": 150,
+  "Ph Tank": 187,
+  "Name": "Remoraid"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 250,
+  "Sp Tank": 125,
+  "Wall": 130,
+  "Ph Tank": 90,
+  "Name": "Octillery"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 160,
+  "Sp Tank": 189,
+  "Wall": 125,
+  "Ph Tank": 95,
+  "Name": "Delibird"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 85,
+  "Sp Tank": 150,
+  "Wall": 165,
+  "Ph Tank": 240,
+  "Name": "Mantine"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 188,
+  "Sp Tank": 125,
+  "Wall": 190,
+  "Ph Tank": 125,
+  "Name": "Skarmory"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 110,
+  "Sp Tank": 90,
+  "Wall": 95,
+  "Ph Tank": 60,
+  "Name": "Houndour"
+ },
+ {
+  "Sp Sweeper": 191,
+  "Ph Sweeper": 125,
+  "Sp Tank": 135,
+  "Wall": 60,
+  "Ph Tank": 192,
+  "Name": "Houndoom"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 165,
+  "Sp Tank": 160,
+  "Wall": 215,
+  "Ph Tank": 190,
+  "Name": "Houndoom"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 60,
+  "Sp Tank": 194,
+  "Wall": 170,
+  "Ph Tank": 110,
+  "Name": "Kingdra"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 105,
+  "Sp Tank": 50,
+  "Wall": 60,
+  "Ph Tank": 125,
+  "Name": "Phanpy"
+ },
+ {
+  "Sp Sweeper": 40,
+  "Ph Sweeper": 193,
+  "Sp Tank": 170,
+  "Wall": 195,
+  "Ph Tank": 100,
+  "Name": "Donphan"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 120,
+  "Sp Tank": 220,
+  "Wall": 130,
+  "Ph Tank": 175,
+  "Name": "Porygon2"
+ },
+ {
+  "Sp Sweeper": 196,
+  "Ph Sweeper": 90,
+  "Sp Tank": 125,
+  "Wall": 125,
+  "Ph Tank": 197,
+  "Name": "Stantler"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 245,
+  "Sp Tank": 176,
+  "Wall": 335,
+  "Ph Tank": 190,
+  "Name": "Smeargle"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 240,
+  "Sp Tank": 199,
+  "Wall": 176,
+  "Ph Tank": 127,
+  "Name": "Tyrogue"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 130,
+  "Sp Tank": 210,
+  "Wall": 105,
+  "Ph Tank": 285,
+  "Name": "Hitmontop"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 198,
+  "Sp Tank": 120,
+  "Wall": 200,
+  "Ph Tank": 170,
+  "Name": "Smoochum"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 127,
+  "Sp Tank": 144,
+  "Wall": 170,
+  "Ph Tank": 120,
+  "Name": "Elekid"
+ },
+ {
+  "Sp Sweeper": 201,
+  "Ph Sweeper": 155,
+  "Sp Tank": 66,
+  "Wall": 120,
+  "Ph Tank": 202,
+  "Name": "Magby"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 205,
+  "Sp Tank": 165,
+  "Wall": 306,
+  "Ph Tank": 91,
+  "Name": "Miltank"
+ },
+ {
+  "Sp Sweeper": 91,
+  "Ph Sweeper": 120,
+  "Sp Tank": 204,
+  "Wall": 175,
+  "Ph Tank": 145,
+  "Name": "Blissey"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 66,
+  "Sp Tank": 70,
+  "Wall": 80,
+  "Ph Tank": 175,
+  "Name": "Raikou"
+ },
+ {
+  "Sp Sweeper": 50,
+  "Ph Sweeper": 203,
+  "Sp Tank": 230,
+  "Wall": 205,
+  "Ph Tank": 100,
+  "Name": "Entei"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 155,
+  "Sp Tank": 235,
+  "Wall": 120,
+  "Ph Tank": 115,
+  "Name": "Suicune"
+ },
+ {
+  "Sp Sweeper": 206,
+  "Ph Sweeper": 155,
+  "Sp Tank": 120,
+  "Wall": 140,
+  "Ph Tank": 207,
+  "Name": "Larvitar"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 275,
+  "Sp Tank": 115,
+  "Wall": 235,
+  "Ph Tank": 100,
+  "Name": "Pupitar"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 110,
+  "Sp Tank": 208,
+  "Wall": 85,
+  "Ph Tank": 285,
+  "Name": "Tyranitar"
+ },
+ {
+  "Sp Sweeper": 340,
+  "Ph Sweeper": 160,
+  "Sp Tank": 150,
+  "Wall": 155,
+  "Ph Tank": 400,
+  "Name": "Tyranitar"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 208,
+  "Sp Tank": 130,
+  "Wall": 209,
+  "Ph Tank": 70,
+  "Name": "Lugia"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 120,
+  "Sp Tank": 225,
+  "Wall": 80,
+  "Ph Tank": 165,
+  "Name": "Ho-oh"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 355,
+  "Sp Tank": 140,
+  "Wall": 195,
+  "Ph Tank": 211,
+  "Name": "Celebi"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 150,
+  "Sp Tank": 195,
+  "Wall": 195,
+  "Ph Tank": 110,
+  "Name": "Treecko"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 105,
+  "Sp Tank": 212,
+  "Wall": 120,
+  "Ph Tank": 230,
+  "Name": "Grovyle"
+ },
+ {
+  "Sp Sweeper": 250,
+  "Ph Sweeper": 180,
+  "Sp Tank": 165,
+  "Wall": 225,
+  "Ph Tank": 310,
+  "Name": "Sceptile"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 212,
+  "Sp Tank": 240,
+  "Wall": 213,
+  "Ph Tank": 15,
+  "Name": "Sceptile"
+ },
+ {
+  "Sp Sweeper": 15,
+  "Ph Sweeper": 135,
+  "Sp Tank": 250,
+  "Wall": 240,
+  "Ph Tank": 210,
+  "Name": "Torchic"
+ },
+ {
+  "Sp Sweeper": 214,
+  "Ph Sweeper": 290,
+  "Sp Tank": 115,
+  "Wall": 200,
+  "Ph Tank": 214,
+  "Name": "Combusken"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 480,
+  "Sp Tank": 210,
+  "Wall": 300,
+  "Ph Tank": 145,
+  "Name": "Blaziken"
+ },
+ {
+  "Sp Sweeper": 300,
+  "Ph Sweeper": 125,
+  "Sp Tank": 216,
+  "Wall": 150,
+  "Ph Tank": 150,
+  "Name": "Blaziken"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 260,
+  "Sp Tank": 100,
+  "Wall": 120,
+  "Ph Tank": 160,
+  "Name": "Mudkip"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 215,
+  "Sp Tank": 205,
+  "Wall": 217,
+  "Ph Tank": 130,
+  "Name": "Marshtomp"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 110,
+  "Sp Tank": 120,
+  "Wall": 150,
+  "Ph Tank": 60,
+  "Name": "Swampert"
+ },
+ {
+  "Sp Sweeper": 218,
+  "Ph Sweeper": 130,
+  "Sp Tank": 110,
+  "Wall": 80,
+  "Ph Tank": 219,
+  "Name": "Swampert"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 240,
+  "Sp Tank": 100,
+  "Wall": 250,
+  "Ph Tank": 160,
+  "Name": "Poochyena"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 90,
+  "Sp Tank": 221,
+  "Wall": 80,
+  "Ph Tank": 90,
+  "Name": "Mightyena"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 80,
+  "Sp Tank": 120,
+  "Wall": 150,
+  "Ph Tank": 240,
+  "Name": "Zigzagoon"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 220,
+  "Sp Tank": 140,
+  "Wall": 222,
+  "Ph Tank": 100,
+  "Name": "Linoone"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 60,
+  "Sp Tank": 105,
+  "Wall": 150,
+  "Ph Tank": 130,
+  "Name": "Wurmple"
+ },
+ {
+  "Sp Sweeper": 223,
+  "Ph Sweeper": 180,
+  "Sp Tank": 150,
+  "Wall": 100,
+  "Ph Tank": 224,
+  "Name": "Silcoon"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 225,
+  "Sp Tank": 130,
+  "Wall": 225,
+  "Ph Tank": 180,
+  "Name": "Beautifly"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 130,
+  "Sp Tank": 226,
+  "Wall": 140,
+  "Ph Tank": 100,
+  "Name": "Cascoon"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 150,
+  "Sp Tank": 220,
+  "Wall": 110,
+  "Ph Tank": 275,
+  "Name": "Dustox"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 225,
+  "Sp Tank": 220,
+  "Wall": 227,
+  "Ph Tank": 110,
+  "Name": "Lotad"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 110,
+  "Sp Tank": 125,
+  "Wall": 110,
+  "Ph Tank": 125,
+  "Name": "Lombre"
+ },
+ {
+  "Sp Sweeper": 228,
+  "Ph Sweeper": 110,
+  "Sp Tank": 205,
+  "Wall": 90,
+  "Ph Tank": 229,
+  "Name": "Ludicolo"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 275,
+  "Sp Tank": 205,
+  "Wall": 205,
+  "Ph Tank": 190,
+  "Name": "Seedot"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 145,
+  "Sp Tank": 230,
+  "Wall": 255,
+  "Ph Tank": 180,
+  "Name": "Nuzleaf"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 185,
+  "Sp Tank": 190,
+  "Wall": 180,
+  "Ph Tank": 265,
+  "Name": "Shiftry"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 229,
+  "Sp Tank": 120,
+  "Wall": 231,
+  "Ph Tank": 80,
+  "Name": "Taillow"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 230,
+  "Sp Tank": 270,
+  "Wall": 80,
+  "Ph Tank": 170,
+  "Name": "Swellow"
+ },
+ {
+  "Sp Sweeper": 232,
+  "Ph Sweeper": 190,
+  "Sp Tank": 165,
+  "Wall": 240,
+  "Ph Tank": 233,
+  "Name": "Wingull"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 190,
+  "Sp Tank": 180,
+  "Wall": 270,
+  "Ph Tank": 200,
+  "Name": "Pelipper"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 110,
+  "Sp Tank": 235,
+  "Wall": 170,
+  "Ph Tank": 157,
+  "Name": "Ralts"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 140,
+  "Sp Tank": 65,
+  "Wall": 95,
+  "Ph Tank": 135,
+  "Name": "Kirlia"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 234,
+  "Sp Tank": 70,
+  "Wall": 236,
+  "Ph Tank": 70,
+  "Name": "Gardevoir"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 150,
+  "Sp Tank": 255,
+  "Wall": 70,
+  "Ph Tank": 165,
+  "Name": "Gardevoir"
+ },
+ {
+  "Sp Sweeper": 237,
+  "Ph Sweeper": 55,
+  "Sp Tank": 150,
+  "Wall": 190,
+  "Ph Tank": 238,
+  "Name": "Surskit"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 105,
+  "Sp Tank": 158,
+  "Wall": 125,
+  "Ph Tank": 150,
+  "Name": "Masquerain"
+ },
+ {
+  "Sp Sweeper": 45,
+  "Ph Sweeper": 105,
+  "Sp Tank": 240,
+  "Wall": 160,
+  "Ph Tank": 100,
+  "Name": "Shroomish"
+ },
+ {
+  "Sp Sweeper": 137,
+  "Ph Sweeper": 95,
+  "Sp Tank": 125,
+  "Wall": 158,
+  "Ph Tank": 137,
+  "Name": "Breloom"
+ },
+ {
+  "Sp Sweeper": 153,
+  "Ph Sweeper": 239,
+  "Sp Tank": 185,
+  "Wall": 241,
+  "Ph Tank": 140,
+  "Name": "Slakoth"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 120,
+  "Sp Tank": 400,
+  "Wall": 110,
+  "Ph Tank": 65,
+  "Name": "Vigoroth"
+ },
+ {
+  "Sp Sweeper": 242,
+  "Ph Sweeper": 112,
+  "Sp Tank": 230,
+  "Wall": 20,
+  "Ph Tank": 243,
+  "Name": "Slaking"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 270,
+  "Sp Tank": 215,
+  "Wall": 265,
+  "Ph Tank": 215,
+  "Name": "Nincada"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 130,
+  "Sp Tank": 245,
+  "Wall": 190,
+  "Ph Tank": 200,
+  "Name": "Ninjask"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 200,
+  "Sp Tank": 205,
+  "Wall": 160,
+  "Ph Tank": 330,
+  "Name": "Shedinja"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 244,
+  "Sp Tank": 114,
+  "Wall": 246,
+  "Ph Tank": 86,
+  "Name": "Whismur"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 165,
+  "Sp Tank": 210,
+  "Wall": 95,
+  "Ph Tank": 135,
+  "Name": "Loudred"
+ },
+ {
+  "Sp Sweeper": 247,
+  "Ph Sweeper": 190,
+  "Sp Tank": 156,
+  "Wall": 154,
+  "Ph Tank": 248,
+  "Name": "Exploud"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 150,
+  "Sp Tank": 235,
+  "Wall": 310,
+  "Ph Tank": 195,
+  "Name": "Makuhita"
+ },
+ {
+  "Sp Sweeper": 244,
+  "Ph Sweeper": 116,
+  "Sp Tank": 249,
+  "Wall": 166,
+  "Ph Tank": 314,
+  "Name": "Hariyama"
+ },
+ {
+  "Sp Sweeper": 370,
+  "Ph Sweeper": 195,
+  "Sp Tank": 244,
+  "Wall": 200,
+  "Ph Tank": 390,
+  "Name": "Azurill"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 248,
+  "Sp Tank": 220,
+  "Wall": 250,
+  "Ph Tank": 200,
+  "Name": "Nosepass"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 215,
+  "Sp Tank": 300,
+  "Wall": 264,
+  "Ph Tank": 200,
+  "Name": "Skitty"
+ },
+ {
+  "Sp Sweeper": 251,
+  "Ph Sweeper": 220,
+  "Sp Tank": 135,
+  "Wall": 200,
+  "Ph Tank": 252,
+  "Name": "Delcatty"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 350,
+  "Sp Tank": 160,
+  "Wall": 130,
+  "Ph Tank": 120,
+  "Name": "Sableye"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 200,
+  "Sp Tank": 254,
+  "Wall": 180,
+  "Ph Tank": 110,
+  "Name": "Sableye"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 115,
+  "Sp Tank": 190,
+  "Wall": 205,
+  "Ph Tank": 220,
+  "Name": "Mawile"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 253,
+  "Sp Tank": 185,
+  "Wall": 254,
+  "Ph Tank": 290,
+  "Name": "Mawile"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 150,
+  "Sp Tank": 135,
+  "Wall": 230,
+  "Ph Tank": 105,
+  "Name": "Aron"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 150,
+  "Sp Tank": 140,
+  "Wall": 100,
+  "Ph Tank": 256,
+  "Name": "Lairon"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 230,
+  "Sp Tank": 200,
+  "Wall": 180,
+  "Ph Tank": 145,
+  "Name": "Aggron"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 115,
+  "Sp Tank": 257,
+  "Wall": 190,
+  "Ph Tank": 190,
+  "Name": "Aggron"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 140,
+  "Sp Tank": 210,
+  "Wall": 260,
+  "Ph Tank": 240,
+  "Name": "Meditite"
+ },
+ {
+  "Sp Sweeper": 230,
+  "Ph Sweeper": 257,
+  "Sp Tank": 120,
+  "Wall": 258,
+  "Ph Tank": 90,
+  "Name": "Medicham"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 180,
+  "Sp Tank": 210,
+  "Wall": 100,
+  "Ph Tank": 135,
+  "Name": "Medicham"
+ },
+ {
+  "Sp Sweeper": 259,
+  "Ph Sweeper": 240,
+  "Sp Tank": 145,
+  "Wall": 155,
+  "Ph Tank": 260,
+  "Name": "Electrike"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 150,
+  "Sp Tank": 220,
+  "Wall": 280,
+  "Ph Tank": 175,
+  "Name": "Manectric"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 110,
+  "Sp Tank": 261,
+  "Wall": 165,
+  "Ph Tank": 260,
+  "Name": "Manectric"
+ },
+ {
+  "Sp Sweeper": 320,
+  "Ph Sweeper": 170,
+  "Sp Tank": 60,
+  "Wall": 90,
+  "Ph Tank": 100,
+  "Name": "Plusle"
+ },
+ {
+  "Sp Sweeper": 65,
+  "Ph Sweeper": 260,
+  "Sp Tank": 160,
+  "Wall": 262,
+  "Ph Tank": 130,
+  "Name": "Minun"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 205,
+  "Sp Tank": 120,
+  "Wall": 120,
+  "Ph Tank": 90,
+  "Name": "Volbeat"
+ },
+ {
+  "Sp Sweeper": 263,
+  "Ph Sweeper": 90,
+  "Sp Tank": 150,
+  "Wall": 71,
+  "Ph Tank": 264,
+  "Name": "Illumise"
+ },
+ {
+  "Sp Sweeper": 71,
+  "Ph Sweeper": 200,
+  "Sp Tank": 65,
+  "Wall": 200,
+  "Ph Tank": 111,
+  "Name": "Roselia"
+ },
+ {
+  "Sp Sweeper": 131,
+  "Ph Sweeper": 90,
+  "Sp Tank": 266,
+  "Wall": 40,
+  "Ph Tank": 80,
+  "Name": "Gulpin"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 170,
+  "Sp Tank": 50,
+  "Wall": 50,
+  "Ph Tank": 130,
+  "Name": "Swalot"
+ },
+ {
+  "Sp Sweeper": 40,
+  "Ph Sweeper": 265,
+  "Sp Tank": 120,
+  "Wall": 267,
+  "Ph Tank": 165,
+  "Name": "Carvanha"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 50,
+  "Sp Tank": 130,
+  "Wall": 150,
+  "Ph Tank": 50,
+  "Name": "Sharpedo"
+ },
+ {
+  "Sp Sweeper": 268,
+  "Ph Sweeper": 90,
+  "Sp Tank": 115,
+  "Wall": 90,
+  "Ph Tank": 269,
+  "Name": "Sharpedo"
+ },
+ {
+  "Sp Sweeper": 50,
+  "Ph Sweeper": 160,
+  "Sp Tank": 60,
+  "Wall": 220,
+  "Ph Tank": 140,
+  "Name": "Wailmer"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 40,
+  "Sp Tank": 271,
+  "Wall": 70,
+  "Ph Tank": 60,
+  "Name": "Wailord"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 115,
+  "Sp Tank": 130,
+  "Wall": 100,
+  "Ph Tank": 180,
+  "Name": "Numel"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 270,
+  "Sp Tank": 140,
+  "Wall": 272,
+  "Ph Tank": 160,
+  "Name": "Camerupt"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 90,
+  "Sp Tank": 120,
+  "Wall": 190,
+  "Ph Tank": 70,
+  "Name": "Camerupt"
+ },
+ {
+  "Sp Sweeper": 273,
+  "Ph Sweeper": 100,
+  "Sp Tank": 120,
+  "Wall": 90,
+  "Ph Tank": 274,
+  "Name": "Torkoal"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 250,
+  "Sp Tank": 180,
+  "Wall": 150,
+  "Ph Tank": 100,
+  "Name": "Spoink"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 60,
+  "Sp Tank": 276,
+  "Wall": 170,
+  "Ph Tank": 160,
+  "Name": "Grumpig"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 130,
+  "Sp Tank": 60,
+  "Wall": 140,
+  "Ph Tank": 100,
+  "Name": "Spinda"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 275,
+  "Sp Tank": 145,
+  "Wall": 277,
+  "Ph Tank": 175,
+  "Name": "Trapinch"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 150,
+  "Sp Tank": 100,
+  "Wall": 100,
+  "Ph Tank": 115,
+  "Name": "Vibrava"
+ },
+ {
+  "Sp Sweeper": 278,
+  "Ph Sweeper": 85,
+  "Sp Tank": 150,
+  "Wall": 60,
+  "Ph Tank": 279,
+  "Name": "Flygon"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 170,
+  "Sp Tank": 65,
+  "Wall": 230,
+  "Ph Tank": 155,
+  "Name": "Cacnea"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 140,
+  "Sp Tank": 281,
+  "Wall": 85,
+  "Ph Tank": 50,
+  "Name": "Cacturne"
+ },
+ {
+  "Sp Sweeper": 88,
+  "Ph Sweeper": 115,
+  "Sp Tank": 120,
+  "Wall": 85,
+  "Ph Tank": 128,
+  "Name": "Swablu"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 280,
+  "Sp Tank": 130,
+  "Wall": 282,
+  "Ph Tank": 205,
+  "Name": "Altaria"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 80,
+  "Sp Tank": 268,
+  "Wall": 240,
+  "Ph Tank": 185,
+  "Name": "Altaria"
+ },
+ {
+  "Sp Sweeper": 282,
+  "Ph Sweeper": 70,
+  "Sp Tank": 115,
+  "Wall": 150,
+  "Ph Tank": 283,
+  "Name": "Zangoose"
+ },
+ {
+  "Sp Sweeper": 300,
+  "Ph Sweeper": 248,
+  "Sp Tank": 120,
+  "Wall": 124,
+  "Ph Tank": 102,
+  "Name": "Seviper"
+ },
+ {
+  "Sp Sweeper": 62,
+  "Ph Sweeper": 265,
+  "Sp Tank": 285,
+  "Wall": 140,
+  "Ph Tank": 122,
+  "Name": "Lunatone"
+ },
+ {
+  "Sp Sweeper": 214,
+  "Ph Sweeper": 95,
+  "Sp Tank": 100,
+  "Wall": 75,
+  "Ph Tank": 180,
+  "Name": "Solrock"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 284,
+  "Sp Tank": 210,
+  "Wall": 286,
+  "Ph Tank": 130,
+  "Name": "Barboach"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 162,
+  "Sp Tank": 155,
+  "Wall": 120,
+  "Ph Tank": 90,
+  "Name": "Whiscash"
+ },
+ {
+  "Sp Sweeper": 287,
+  "Ph Sweeper": 100,
+  "Sp Tank": 145,
+  "Wall": 120,
+  "Ph Tank": 288,
+  "Name": "Corphish"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 200,
+  "Sp Tank": 260,
+  "Wall": 215,
+  "Ph Tank": 110,
+  "Name": "Crawdaunt"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 65,
+  "Sp Tank": 290,
+  "Wall": 195,
+  "Ph Tank": 260,
+  "Name": "Baltoy"
+ },
+ {
+  "Sp Sweeper": 315,
+  "Ph Sweeper": 170,
+  "Sp Tank": 60,
+  "Wall": 85,
+  "Ph Tank": 151,
+  "Name": "Claydol"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 289,
+  "Sp Tank": 135,
+  "Wall": 291,
+  "Ph Tank": 210,
+  "Name": "Lileep"
+ },
+ {
+  "Sp Sweeper": 250,
+  "Ph Sweeper": 160,
+  "Sp Tank": 76,
+  "Wall": 100,
+  "Ph Tank": 130,
+  "Name": "Cradily"
+ },
+ {
+  "Sp Sweeper": 292,
+  "Ph Sweeper": 135,
+  "Sp Tank": 79,
+  "Wall": 135,
+  "Ph Tank": 293,
+  "Name": "Anorith"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 156,
+  "Sp Tank": 119,
+  "Wall": 110,
+  "Ph Tank": 74,
+  "Name": "Armaldo"
+ },
+ {
+  "Sp Sweeper": 74,
+  "Ph Sweeper": 70,
+  "Sp Tank": 295,
+  "Wall": 119,
+  "Ph Tank": 114,
+  "Name": "Feebas"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 79,
+  "Sp Tank": 164,
+  "Wall": 159,
+  "Ph Tank": 240,
+  "Name": "Milotic"
+ },
+ {
+  "Sp Sweeper": 159,
+  "Ph Sweeper": 294,
+  "Sp Tank": 90,
+  "Wall": 296,
+  "Ph Tank": 45,
+  "Name": "Castform"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 114,
+  "Sp Tank": 264,
+  "Wall": 50,
+  "Ph Tank": 170,
+  "Name": "Kecleon"
+ },
+ {
+  "Sp Sweeper": 297,
+  "Ph Sweeper": 154,
+  "Sp Tank": 40,
+  "Wall": 180,
+  "Ph Tank": 298,
+  "Name": "Shuppet"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 132,
+  "Sp Tank": 75,
+  "Wall": 130,
+  "Ph Tank": 60,
+  "Name": "Banette"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 90,
+  "Sp Tank": 300,
+  "Wall": 75,
+  "Ph Tank": 180,
+  "Name": "Banette"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 40,
+  "Sp Tank": 70,
+  "Wall": 95,
+  "Ph Tank": 130,
+  "Name": "Duskull"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 299,
+  "Sp Tank": 130,
+  "Wall": 301,
+  "Ph Tank": 125,
+  "Name": "Dusclops"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 135,
+  "Sp Tank": 190,
+  "Wall": 110,
+  "Ph Tank": 125,
+  "Name": "Tropius"
+ },
+ {
+  "Sp Sweeper": 302,
+  "Ph Sweeper": 90,
+  "Sp Tank": 105,
+  "Wall": 150,
+  "Ph Tank": 302,
+  "Name": "Chimecho"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 190,
+  "Sp Tank": 135,
+  "Wall": 290,
+  "Ph Tank": 200,
+  "Name": "Absol"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 115,
+  "Sp Tank": 303,
+  "Wall": 105,
+  "Ph Tank": 170,
+  "Name": "Absol"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 105,
+  "Sp Tank": 150,
+  "Wall": 155,
+  "Ph Tank": 270,
+  "Name": "Wynaut"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 303,
+  "Sp Tank": 170,
+  "Wall": 304,
+  "Ph Tank": 70,
+  "Name": "Snorunt"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 110,
+  "Sp Tank": 250,
+  "Wall": 80,
+  "Ph Tank": 130,
+  "Name": "Glalie"
+ },
+ {
+  "Sp Sweeper": 305,
+  "Ph Sweeper": 230,
+  "Sp Tank": 110,
+  "Wall": 230,
+  "Ph Tank": 306,
+  "Name": "Glalie"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 190,
+  "Sp Tank": 190,
+  "Wall": 310,
+  "Ph Tank": 120,
+  "Name": "Spheal"
+ },
+ {
+  "Sp Sweeper": 290,
+  "Ph Sweeper": 90,
+  "Sp Tank": 307,
+  "Wall": 110,
+  "Ph Tank": 370,
+  "Name": "Sealeo"
+ },
+ {
+  "Sp Sweeper": 380,
+  "Ph Sweeper": 160,
+  "Sp Tank": 95,
+  "Wall": 100,
+  "Ph Tank": 140,
+  "Name": "Walrein"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 306,
+  "Sp Tank": 135,
+  "Wall": 308,
+  "Ph Tank": 140,
+  "Name": "Clamperl"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 140,
+  "Sp Tank": 230,
+  "Wall": 135,
+  "Ph Tank": 200,
+  "Name": "Huntail"
+ },
+ {
+  "Sp Sweeper": 308,
+  "Ph Sweeper": 95,
+  "Sp Tank": 130,
+  "Wall": 185,
+  "Ph Tank": 309,
+  "Name": "Gorebyss"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 210,
+  "Sp Tank": 180,
+  "Wall": 120,
+  "Ph Tank": 105,
+  "Name": "Relicanth"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 180,
+  "Sp Tank": 310,
+  "Wall": 210,
+  "Ph Tank": 135,
+  "Name": "Luvdisc"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 110,
+  "Sp Tank": 215,
+  "Wall": 210,
+  "Ph Tank": 230,
+  "Name": "Bagon"
+ },
+ {
+  "Sp Sweeper": 270,
+  "Ph Sweeper": 310,
+  "Sp Tank": 90,
+  "Wall": 311,
+  "Ph Tank": 180,
+  "Name": "Shelgon"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 165,
+  "Sp Tank": 195,
+  "Wall": 160,
+  "Ph Tank": 135,
+  "Name": "Salamence"
+ },
+ {
+  "Sp Sweeper": 312,
+  "Ph Sweeper": 155,
+  "Sp Tank": 132,
+  "Wall": 90,
+  "Ph Tank": 313,
+  "Name": "Salamence"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 175,
+  "Sp Tank": 132,
+  "Wall": 195,
+  "Ph Tank": 122,
+  "Name": "Beldum"
+ },
+ {
+  "Sp Sweeper": 128,
+  "Ph Sweeper": 170,
+  "Sp Tank": 315,
+  "Wall": 158,
+  "Ph Tank": 102,
+  "Name": "Metang"
+ },
+ {
+  "Sp Sweeper": 195,
+  "Ph Sweeper": 158,
+  "Sp Tank": 180,
+  "Wall": 125,
+  "Ph Tank": 175,
+  "Name": "Metagross"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 314,
+  "Sp Tank": 96,
+  "Wall": 316,
+  "Ph Tank": 83,
+  "Name": "Metagross"
+ },
+ {
+  "Sp Sweeper": 83,
+  "Ph Sweeper": 148,
+  "Sp Tank": 266,
+  "Wall": 96,
+  "Ph Tank": 128,
+  "Name": "Regirock"
+ },
+ {
+  "Sp Sweeper": 317,
+  "Ph Sweeper": 105,
+  "Sp Tank": 130,
+  "Wall": 156,
+  "Ph Tank": 318,
+  "Name": "Regice"
+ },
+ {
+  "Sp Sweeper": 156,
+  "Ph Sweeper": 176,
+  "Sp Tank": 215,
+  "Wall": 85,
+  "Ph Tank": 85,
+  "Name": "Registeel"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 128,
+  "Sp Tank": 319,
+  "Wall": 190,
+  "Ph Tank": 160,
+  "Name": "Latias"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 155,
+  "Sp Tank": 175,
+  "Wall": 245,
+  "Ph Tank": 205,
+  "Name": "Latias"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 319,
+  "Sp Tank": 105,
+  "Wall": 320,
+  "Ph Tank": 130,
+  "Name": "Latios"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 135,
+  "Sp Tank": 260,
+  "Wall": 105,
+  "Ph Tank": 150,
+  "Name": "Latios"
+ },
+ {
+  "Sp Sweeper": 321,
+  "Ph Sweeper": 210,
+  "Sp Tank": 100,
+  "Wall": 135,
+  "Ph Tank": 322,
+  "Name": "Kyogre"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 200,
+  "Sp Tank": 140,
+  "Wall": 145,
+  "Ph Tank": 110,
+  "Name": "Kyogre"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 150,
+  "Sp Tank": 323,
+  "Wall": 145,
+  "Ph Tank": 170,
+  "Name": "Groudon"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 95,
+  "Sp Tank": 250,
+  "Wall": 140,
+  "Ph Tank": 275,
+  "Name": "Groudon"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 323,
+  "Sp Tank": 225,
+  "Wall": 324,
+  "Ph Tank": 105,
+  "Name": "Rayquaza"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 180,
+  "Sp Tank": 175,
+  "Wall": 155,
+  "Ph Tank": 85,
+  "Name": "Rayquaza"
+ },
+ {
+  "Sp Sweeper": 325,
+  "Ph Sweeper": 220,
+  "Sp Tank": 170,
+  "Wall": 60,
+  "Ph Tank": 326,
+  "Name": "Jirachi"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 280,
+  "Sp Tank": 120,
+  "Wall": 255,
+  "Ph Tank": 200,
+  "Name": "Deoxys"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 130,
+  "Sp Tank": 328,
+  "Wall": 120,
+  "Ph Tank": 120,
+  "Name": "Deoxys"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 125,
+  "Sp Tank": 90,
+  "Wall": 110,
+  "Ph Tank": 135,
+  "Name": "Deoxys"
+ },
+ {
+  "Sp Sweeper": 55,
+  "Ph Sweeper": 327,
+  "Sp Tank": 120,
+  "Wall": 329,
+  "Ph Tank": 120,
+  "Name": "Deoxys"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 120,
+  "Sp Tank": 240,
+  "Wall": 100,
+  "Ph Tank": 200,
+  "Name": "Turtwig"
+ },
+ {
+  "Sp Sweeper": 330,
+  "Ph Sweeper": 145,
+  "Sp Tank": 120,
+  "Wall": 180,
+  "Ph Tank": 331,
+  "Name": "Grotle"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 150,
+  "Sp Tank": 170,
+  "Wall": 130,
+  "Ph Tank": 125,
+  "Name": "Torterra"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 180,
+  "Sp Tank": 333,
+  "Wall": 170,
+  "Ph Tank": 175,
+  "Name": "Chimchar"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 120,
+  "Sp Tank": 115,
+  "Wall": 90,
+  "Ph Tank": 180,
+  "Name": "Monferno"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 332,
+  "Sp Tank": 160,
+  "Wall": 334,
+  "Ph Tank": 150,
+  "Name": "Infernape"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 175,
+  "Sp Tank": 290,
+  "Wall": 175,
+  "Ph Tank": 190,
+  "Name": "Piplup"
+ },
+ {
+  "Sp Sweeper": 334,
+  "Ph Sweeper": 100,
+  "Sp Tank": 150,
+  "Wall": 220,
+  "Ph Tank": 335,
+  "Name": "Prinplup"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 270,
+  "Sp Tank": 165,
+  "Wall": 193,
+  "Ph Tank": 120,
+  "Name": "Empoleon"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 190,
+  "Sp Tank": 337,
+  "Wall": 165,
+  "Ph Tank": 160,
+  "Name": "Starly"
+ },
+ {
+  "Sp Sweeper": 193,
+  "Ph Sweeper": 205,
+  "Sp Tank": 180,
+  "Wall": 125,
+  "Ph Tank": 220,
+  "Name": "Staravia"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 336,
+  "Sp Tank": 180,
+  "Wall": 338,
+  "Ph Tank": 125,
+  "Name": "Staraptor"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 160,
+  "Sp Tank": 134,
+  "Wall": 120,
+  "Ph Tank": 108,
+  "Name": "Bidoof"
+ },
+ {
+  "Sp Sweeper": 339,
+  "Ph Sweeper": 120,
+  "Sp Tank": 136,
+  "Wall": 91,
+  "Ph Tank": 340,
+  "Name": "Bibarel"
+ },
+ {
+  "Sp Sweeper": 87,
+  "Ph Sweeper": 220,
+  "Sp Tank": 115,
+  "Wall": 254,
+  "Ph Tank": 147,
+  "Name": "Kricketot"
+ },
+ {
+  "Sp Sweeper": 151,
+  "Ph Sweeper": 106,
+  "Sp Tank": 342,
+  "Wall": 85,
+  "Ph Tank": 145,
+  "Name": "Kricketune"
+ },
+ {
+  "Sp Sweeper": 143,
+  "Ph Sweeper": 138,
+  "Sp Tank": 145,
+  "Wall": 175,
+  "Ph Tank": 203,
+  "Name": "Shinx"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 341,
+  "Sp Tank": 95,
+  "Wall": 343,
+  "Ph Tank": 95,
+  "Name": "Luxio"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 85,
+  "Sp Tank": 285,
+  "Wall": 110,
+  "Ph Tank": 145,
+  "Name": "Luxray"
+ },
+ {
+  "Sp Sweeper": 344,
+  "Ph Sweeper": 205,
+  "Sp Tank": 84,
+  "Wall": 175,
+  "Ph Tank": 345,
+  "Name": "Budew"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 165,
+  "Sp Tank": 124,
+  "Wall": 230,
+  "Ph Tank": 148,
+  "Name": "Roserade"
+ },
+ {
+  "Sp Sweeper": 118,
+  "Ph Sweeper": 145,
+  "Sp Tank": 347,
+  "Wall": 124,
+  "Ph Tank": 178,
+  "Name": "Cranidos"
+ },
+ {
+  "Sp Sweeper": 290,
+  "Ph Sweeper": 64,
+  "Sp Tank": 90,
+  "Wall": 170,
+  "Ph Tank": 145,
+  "Name": "Rampardos"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 346,
+  "Sp Tank": 225,
+  "Wall": 348,
+  "Ph Tank": 115,
+  "Name": "Shieldon"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 188,
+  "Sp Tank": 95,
+  "Wall": 150,
+  "Ph Tank": 95,
+  "Name": "Bastiodon"
+ },
+ {
+  "Sp Sweeper": 349,
+  "Ph Sweeper": 145,
+  "Sp Tank": 181,
+  "Wall": 35,
+  "Ph Tank": 350,
+  "Name": "Burmy"
+ },
+ {
+  "Sp Sweeper": 65,
+  "Ph Sweeper": 255,
+  "Sp Tank": 140,
+  "Wall": 299,
+  "Ph Tank": 225,
+  "Name": "Wormadam"
+ },
+ {
+  "Sp Sweeper": 139,
+  "Ph Sweeper": 90,
+  "Sp Tank": 352,
+  "Wall": 140,
+  "Ph Tank": 140,
+  "Name": "Wormadam"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 141,
+  "Sp Tank": 180,
+  "Wall": 130,
+  "Ph Tank": 250,
+  "Name": "Wormadam"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 351,
+  "Sp Tank": 110,
+  "Wall": 353,
+  "Ph Tank": 108,
+  "Name": "Mothim"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 140,
+  "Sp Tank": 192,
+  "Wall": 96,
+  "Ph Tank": 180,
+  "Name": "Combee"
+ },
+ {
+  "Sp Sweeper": 354,
+  "Ph Sweeper": 160,
+  "Sp Tank": 168,
+  "Wall": 180,
+  "Ph Tank": 354,
+  "Name": "Vespiquen"
+ },
+ {
+  "Sp Sweeper": 146,
+  "Ph Sweeper": 112,
+  "Sp Tank": 65,
+  "Wall": 222,
+  "Ph Tank": 176,
+  "Name": "Pachirisu"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 148,
+  "Sp Tank": 356,
+  "Wall": 55,
+  "Ph Tank": 130,
+  "Name": "Buizel"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 240,
+  "Sp Tank": 190,
+  "Wall": 95,
+  "Ph Tank": 300,
+  "Name": "Floatzel"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 355,
+  "Sp Tank": 151,
+  "Wall": 357,
+  "Ph Tank": 123,
+  "Name": "Cherubi"
+ },
+ {
+  "Sp Sweeper": 119,
+  "Ph Sweeper": 120,
+  "Sp Tank": 215,
+  "Wall": 159,
+  "Ph Tank": 115,
+  "Name": "Cherrim"
+ },
+ {
+  "Sp Sweeper": 358,
+  "Ph Sweeper": 200,
+  "Sp Tank": 150,
+  "Wall": 120,
+  "Ph Tank": 359,
+  "Name": "Shellos"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 269,
+  "Sp Tank": 265,
+  "Wall": 185,
+  "Ph Tank": 135,
+  "Name": "Gastrodon"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 160,
+  "Sp Tank": 360,
+  "Wall": 230,
+  "Ph Tank": 210,
+  "Name": "Ambipom"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 205,
+  "Sp Tank": 71,
+  "Wall": 46,
+  "Ph Tank": 191,
+  "Name": "Drifloon"
+ },
+ {
+  "Sp Sweeper": 46,
+  "Ph Sweeper": 359,
+  "Sp Tank": 100,
+  "Wall": 361,
+  "Ph Tank": 100,
+  "Name": "Drifblim"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 175,
+  "Sp Tank": 240,
+  "Wall": 100,
+  "Ph Tank": 160,
+  "Name": "Buneary"
+ },
+ {
+  "Sp Sweeper": 362,
+  "Ph Sweeper": 71,
+  "Sp Tank": 220,
+  "Wall": 160,
+  "Ph Tank": 362,
+  "Name": "Lopunny"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 150,
+  "Sp Tank": 65,
+  "Wall": 240,
+  "Ph Tank": 200,
+  "Name": "Lopunny"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 160,
+  "Sp Tank": 364,
+  "Wall": 80,
+  "Ph Tank": 90,
+  "Name": "Mismagius"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 220,
+  "Sp Tank": 145,
+  "Wall": 105,
+  "Ph Tank": 230,
+  "Name": "Honchkrow"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 363,
+  "Sp Tank": 170,
+  "Wall": 365,
+  "Ph Tank": 160,
+  "Name": "Glameow"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 105,
+  "Sp Tank": 175,
+  "Wall": 185,
+  "Ph Tank": 96,
+  "Name": "Purugly"
+ },
+ {
+  "Sp Sweeper": 366,
+  "Ph Sweeper": 130,
+  "Sp Tank": 146,
+  "Wall": 149,
+  "Ph Tank": 367,
+  "Name": "Chingling"
+ },
+ {
+  "Sp Sweeper": 129,
+  "Ph Sweeper": 290,
+  "Sp Tank": 136,
+  "Wall": 235,
+  "Ph Tank": 169,
+  "Name": "Stunky"
+ },
+ {
+  "Sp Sweeper": 209,
+  "Ph Sweeper": 106,
+  "Sp Tank": 369,
+  "Wall": 166,
+  "Ph Tank": 189,
+  "Name": "Skuntank"
+ },
+ {
+  "Sp Sweeper": 235,
+  "Ph Sweeper": 156,
+  "Sp Tank": 110,
+  "Wall": 145,
+  "Ph Tank": 295,
+  "Name": "Bronzor"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 368,
+  "Sp Tank": 85,
+  "Wall": 370,
+  "Ph Tank": 137,
+  "Name": "Bronzong"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 189,
+  "Sp Tank": 135,
+  "Wall": 105,
+  "Ph Tank": 125,
+  "Name": "Bonsly"
+ },
+ {
+  "Sp Sweeper": 371,
+  "Ph Sweeper": 220,
+  "Sp Tank": 110,
+  "Wall": 135,
+  "Ph Tank": 372,
+  "Name": "Mime Jr."
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 163,
+  "Sp Tank": 235,
+  "Wall": 215,
+  "Ph Tank": 110,
+  "Name": "Happiny"
+ },
+ {
+  "Sp Sweeper": 195,
+  "Ph Sweeper": 90,
+  "Sp Tank": 373,
+  "Wall": 210,
+  "Ph Tank": 215,
+  "Name": "Chatot"
+ },
+ {
+  "Sp Sweeper": 255,
+  "Ph Sweeper": 145,
+  "Sp Tank": 210,
+  "Wall": 265,
+  "Ph Tank": 315,
+  "Name": "Spiritomb"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 373,
+  "Sp Tank": 135,
+  "Wall": 374,
+  "Ph Tank": 65,
+  "Name": "Gible"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 190,
+  "Sp Tank": 240,
+  "Wall": 95,
+  "Ph Tank": 125,
+  "Name": "Gabite"
+ },
+ {
+  "Sp Sweeper": 375,
+  "Ph Sweeper": 275,
+  "Sp Tank": 165,
+  "Wall": 175,
+  "Ph Tank": 376,
+  "Name": "Garchomp"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 180,
+  "Sp Tank": 255,
+  "Wall": 300,
+  "Ph Tank": 185,
+  "Name": "Garchomp"
+ },
+ {
+  "Sp Sweeper": 265,
+  "Ph Sweeper": 105,
+  "Sp Tank": 377,
+  "Wall": 215,
+  "Ph Tank": 295,
+  "Name": "Munchlax"
+ },
+ {
+  "Sp Sweeper": 340,
+  "Ph Sweeper": 205,
+  "Sp Tank": 150,
+  "Wall": 150,
+  "Ph Tank": 380,
+  "Name": "Riolu"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 376,
+  "Sp Tank": 150,
+  "Wall": 378,
+  "Ph Tank": 150,
+  "Name": "Lucario"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 215,
+  "Sp Tank": 380,
+  "Wall": 300,
+  "Ph Tank": 125,
+  "Name": "Lucario"
+ },
+ {
+  "Sp Sweeper": 379,
+  "Ph Sweeper": 300,
+  "Sp Tank": 220,
+  "Wall": 225,
+  "Ph Tank": 380,
+  "Name": "Hippopotas"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 380,
+  "Sp Tank": 210,
+  "Wall": 300,
+  "Ph Tank": 240,
+  "Name": "Hippowdon"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 125,
+  "Sp Tank": 381,
+  "Wall": 250,
+  "Ph Tank": 220,
+  "Name": "Skorupi"
+ },
+ {
+  "Sp Sweeper": 350,
+  "Ph Sweeper": 190,
+  "Sp Tank": 240,
+  "Wall": 200,
+  "Ph Tank": 270,
+  "Name": "Drapion"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 380,
+  "Sp Tank": 230,
+  "Wall": 381,
+  "Ph Tank": 270,
+  "Name": "Croagunk"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 290,
+  "Sp Tank": 330,
+  "Wall": 280,
+  "Ph Tank": 190,
+  "Name": "Toxicroak"
+ },
+ {
+  "Sp Sweeper": 382,
+  "Ph Sweeper": 170,
+  "Sp Tank": 270,
+  "Wall": 190,
+  "Ph Tank": 382,
+  "Name": "Carnivine"
+ },
+ {
+  "Sp Sweeper": 290,
+  "Ph Sweeper": 300,
+  "Sp Tank": 240,
+  "Wall": 350,
+  "Ph Tank": 340,
+  "Name": "Finneon"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 240,
+  "Sp Tank": 383,
+  "Wall": 190,
+  "Ph Tank": 290,
+  "Name": "Lumineon"
+ },
+ {
+  "Sp Sweeper": 330,
+  "Ph Sweeper": 240,
+  "Sp Tank": 240,
+  "Wall": 270,
+  "Ph Tank": 350,
+  "Name": "Mantyke"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 383,
+  "Sp Tank": 240,
+  "Wall": 384,
+  "Ph Tank": 245,
+  "Name": "Snover"
+ },
+ {
+  "Sp Sweeper": 245,
+  "Ph Sweeper": 190,
+  "Sp Tank": 305,
+  "Wall": 240,
+  "Ph Tank": 295,
+  "Name": "Abomasnow"
+ },
+ {
+  "Sp Sweeper": 384,
+  "Ph Sweeper": 340,
+  "Sp Tank": 200,
+  "Wall": 280,
+  "Ph Tank": 385,
+  "Name": "Abomasnow"
+ },
+ {
+  "Sp Sweeper": 280,
+  "Ph Sweeper": 285,
+  "Sp Tank": 300,
+  "Wall": 300,
+  "Ph Tank": 200,
+  "Name": "Weavile"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 295,
+  "Sp Tank": 386,
+  "Wall": 300,
+  "Ph Tank": 200,
+  "Name": "Magnezone"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 200,
+  "Sp Tank": 200,
+  "Wall": 330,
+  "Ph Tank": 90,
+  "Name": "Lickilicky"
+ },
+ {
+  "Sp Sweeper": 330,
+  "Ph Sweeper": 386,
+  "Sp Tank": 230,
+  "Wall": 386,
+  "Ph Tank": 160,
+  "Name": "Rhyperior"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 200,
+  "Sp Tank": 230,
+  "Wall": 230,
+  "Ph Tank": 275,
+  "Name": "Tangrowth"
+ },
+ {
+  "Sp Sweeper": 386,
+  "Ph Sweeper": 200,
+  "Sp Tank": 76,
+  "Wall": 185,
+  "Ph Tank": 387,
+  "Name": "Electivire"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 370,
+  "Sp Tank": 125,
+  "Wall": 174,
+  "Ph Tank": 100,
+  "Name": "Magmortar"
+ },
+ {
+  "Sp Sweeper": 132,
+  "Ph Sweeper": 275,
+  "Sp Tank": 389,
+  "Wall": 91,
+  "Ph Tank": 174,
+  "Name": "Togekiss"
+ },
+ {
+  "Sp Sweeper": 225,
+  "Ph Sweeper": 99,
+  "Sp Tank": 160,
+  "Wall": 165,
+  "Ph Tank": 285,
+  "Name": "Yanmega"
+ },
+ {
+  "Sp Sweeper": 131,
+  "Ph Sweeper": 388,
+  "Sp Tank": 102,
+  "Wall": 390,
+  "Ph Tank": 119,
+  "Name": "Leafeon"
+ },
+ {
+  "Sp Sweeper": 119,
+  "Ph Sweeper": 120,
+  "Sp Tank": 168,
+  "Wall": 102,
+  "Ph Tank": 159,
+  "Name": "Glaceon"
+ },
+ {
+  "Sp Sweeper": 391,
+  "Ph Sweeper": 214,
+  "Sp Tank": 212,
+  "Wall": 130,
+  "Ph Tank": 392,
+  "Name": "Gliscor"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 132,
+  "Sp Tank": 91,
+  "Wall": 218,
+  "Ph Tank": 175,
+  "Name": "Mamoswine"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 159,
+  "Sp Tank": 394,
+  "Wall": 101,
+  "Ph Tank": 104,
+  "Name": "Porygon-Z"
+ },
+ {
+  "Sp Sweeper": 162,
+  "Ph Sweeper": 212,
+  "Sp Tank": 157,
+  "Wall": 116,
+  "Ph Tank": 208,
+  "Name": "Gallade"
+ },
+ {
+  "Sp Sweeper": 131,
+  "Ph Sweeper": 393,
+  "Sp Tank": 174,
+  "Wall": 395,
+  "Ph Tank": 171,
+  "Name": "Gallade"
+ },
+ {
+  "Sp Sweeper": 146,
+  "Ph Sweeper": 117,
+  "Sp Tank": 100,
+  "Wall": 212,
+  "Ph Tank": 115,
+  "Name": "Probopass"
+ },
+ {
+  "Sp Sweeper": 396,
+  "Ph Sweeper": 134,
+  "Sp Tank": 120,
+  "Wall": 85,
+  "Ph Tank": 397,
+  "Name": "Dusknoir"
+ },
+ {
+  "Sp Sweeper": 60,
+  "Ph Sweeper": 273,
+  "Sp Tank": 220,
+  "Wall": 145,
+  "Ph Tank": 80,
+  "Name": "Froslass"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 90,
+  "Sp Tank": 399,
+  "Wall": 150,
+  "Ph Tank": 190,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 155,
+  "Sp Tank": 75,
+  "Wall": 76,
+  "Ph Tank": 139,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 66,
+  "Ph Sweeper": 398,
+  "Sp Tank": 145,
+  "Wall": 400,
+  "Ph Tank": 126,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 156,
+  "Ph Sweeper": 110,
+  "Sp Tank": 119,
+  "Wall": 115,
+  "Ph Tank": 50,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 401,
+  "Ph Sweeper": 85,
+  "Sp Tank": 120,
+  "Wall": 66,
+  "Ph Tank": 402,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 66,
+  "Ph Sweeper": 199,
+  "Sp Tank": 110,
+  "Wall": 179,
+  "Ph Tank": 106,
+  "Name": "Rotom"
+ },
+ {
+  "Sp Sweeper": 136,
+  "Ph Sweeper": 50,
+  "Sp Tank": 404,
+  "Wall": 85,
+  "Ph Tank": 99,
+  "Name": "Uxie"
+ },
+ {
+  "Sp Sweeper": 113,
+  "Ph Sweeper": 150,
+  "Sp Tank": 109,
+  "Wall": 145,
+  "Ph Tank": 158,
+  "Name": "Mesprit"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 403,
+  "Sp Tank": 199,
+  "Wall": 405,
+  "Ph Tank": 165,
+  "Name": "Azelf"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 74,
+  "Sp Tank": 145,
+  "Wall": 174,
+  "Ph Tank": 85,
+  "Name": "Dialga"
+ },
+ {
+  "Sp Sweeper": 406,
+  "Ph Sweeper": 134,
+  "Sp Tank": 215,
+  "Wall": 65,
+  "Ph Tank": 407,
+  "Name": "Palkia"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 238,
+  "Sp Tank": 183,
+  "Wall": 230,
+  "Ph Tank": 230,
+  "Name": "Heatran"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 105,
+  "Sp Tank": 409,
+  "Wall": 88,
+  "Ph Tank": 165,
+  "Name": "Regigigas"
+ },
+ {
+  "Sp Sweeper": 137,
+  "Ph Sweeper": 160,
+  "Sp Tank": 115,
+  "Wall": 223,
+  "Ph Tank": 207,
+  "Name": "Giratina"
+ },
+ {
+  "Sp Sweeper": 123,
+  "Ph Sweeper": 408,
+  "Sp Tank": 160,
+  "Wall": 410,
+  "Ph Tank": 72,
+  "Name": "Giratina"
+ },
+ {
+  "Sp Sweeper": 72,
+  "Ph Sweeper": 60,
+  "Sp Tank": 366,
+  "Wall": 130,
+  "Ph Tank": 82,
+  "Name": "Cresselia"
+ },
+ {
+  "Sp Sweeper": 411,
+  "Ph Sweeper": 225,
+  "Sp Tank": 65,
+  "Wall": 220,
+  "Ph Tank": 412,
+  "Name": "Phione"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 236,
+  "Sp Tank": 95,
+  "Wall": 130,
+  "Ph Tank": 74,
+  "Name": "Manaphy"
+ },
+ {
+  "Sp Sweeper": 74,
+  "Ph Sweeper": 77,
+  "Sp Tank": 413,
+  "Wall": 115,
+  "Ph Tank": 144,
+  "Name": "Darkrai"
+ },
+ {
+  "Sp Sweeper": 250,
+  "Ph Sweeper": 65,
+  "Sp Tank": 144,
+  "Wall": 115,
+  "Ph Tank": 250,
+  "Name": "Shaymin"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 413,
+  "Sp Tank": 164,
+  "Wall": 413,
+  "Ph Tank": 105,
+  "Name": "Shaymin"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 184,
+  "Sp Tank": 170,
+  "Wall": 164,
+  "Ph Tank": 160,
+  "Name": "Arceus"
+ },
+ {
+  "Sp Sweeper": 414,
+  "Ph Sweeper": 184,
+  "Sp Tank": 100,
+  "Wall": 144,
+  "Ph Tank": 415,
+  "Name": "Victini"
+ },
+ {
+  "Sp Sweeper": 144,
+  "Ph Sweeper": 250,
+  "Sp Tank": 120,
+  "Wall": 114,
+  "Ph Tank": 72,
+  "Name": "Snivy"
+ },
+ {
+  "Sp Sweeper": 72,
+  "Ph Sweeper": 160,
+  "Sp Tank": 417,
+  "Wall": 120,
+  "Ph Tank": 182,
+  "Name": "Servine"
+ },
+ {
+  "Sp Sweeper": 274,
+  "Ph Sweeper": 100,
+  "Sp Tank": 135,
+  "Wall": 140,
+  "Ph Tank": 220,
+  "Name": "Serperior"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 416,
+  "Sp Tank": 100,
+  "Wall": 418,
+  "Ph Tank": 145,
+  "Name": "Tepig"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 182,
+  "Sp Tank": 190,
+  "Wall": 90,
+  "Ph Tank": 220,
+  "Name": "Pignite"
+ },
+ {
+  "Sp Sweeper": 419,
+  "Ph Sweeper": 115,
+  "Sp Tank": 97,
+  "Wall": 160,
+  "Ph Tank": 420,
+  "Name": "Emboar"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 120,
+  "Sp Tank": 145,
+  "Wall": 143,
+  "Ph Tank": 115,
+  "Name": "Oshawott"
+ },
+ {
+  "Sp Sweeper": 80,
+  "Ph Sweeper": 200,
+  "Sp Tank": 422,
+  "Wall": 172,
+  "Ph Tank": 130,
+  "Name": "Dewott"
+ },
+ {
+  "Sp Sweeper": 218,
+  "Ph Sweeper": 70,
+  "Sp Tank": 119,
+  "Wall": 82,
+  "Ph Tank": 186,
+  "Name": "Samurott"
+ },
+ {
+  "Sp Sweeper": 91,
+  "Ph Sweeper": 421,
+  "Sp Tank": 151,
+  "Wall": 423,
+  "Ph Tank": 131,
+  "Name": "Patrat"
+ },
+ {
+  "Sp Sweeper": 122,
+  "Ph Sweeper": 165,
+  "Sp Tank": 207,
+  "Wall": 174,
+  "Ph Tank": 215,
+  "Name": "Watchog"
+ },
+ {
+  "Sp Sweeper": 424,
+  "Ph Sweeper": 96,
+  "Sp Tank": 130,
+  "Wall": 166,
+  "Ph Tank": 425,
+  "Name": "Lillipup"
+ },
+ {
+  "Sp Sweeper": 126,
+  "Ph Sweeper": 261,
+  "Sp Tank": 160,
+  "Wall": 168,
+  "Ph Tank": 104,
+  "Name": "Herdier"
+ },
+ {
+  "Sp Sweeper": 84,
+  "Ph Sweeper": 175,
+  "Sp Tank": 427,
+  "Wall": 170,
+  "Ph Tank": 124,
+  "Name": "Stoutland"
+ },
+ {
+  "Sp Sweeper": 248,
+  "Ph Sweeper": 120,
+  "Sp Tank": 100,
+  "Wall": 151,
+  "Ph Tank": 155,
+  "Name": "Purrloin"
+ },
+ {
+  "Sp Sweeper": 129,
+  "Ph Sweeper": 426,
+  "Sp Tank": 160,
+  "Wall": 428,
+  "Ph Tank": 159,
+  "Name": "Liepard"
+ },
+ {
+  "Sp Sweeper": 181,
+  "Ph Sweeper": 144,
+  "Sp Tank": 255,
+  "Wall": 150,
+  "Ph Tank": 271,
+  "Name": "Pansage"
+ },
+ {
+  "Sp Sweeper": 428,
+  "Ph Sweeper": 110,
+  "Sp Tank": 210,
+  "Wall": 230,
+  "Ph Tank": 429,
+  "Name": "Simisage"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 245,
+  "Sp Tank": 196,
+  "Wall": 225,
+  "Ph Tank": 210,
+  "Name": "Pansear"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 189,
+  "Sp Tank": 431,
+  "Wall": 176,
+  "Ph Tank": 177,
+  "Name": "Simisear"
+ },
+ {
+  "Sp Sweeper": 204,
+  "Ph Sweeper": 165,
+  "Sp Tank": 79,
+  "Wall": 140,
+  "Ph Tank": 128,
+  "Name": "Panpour"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 430,
+  "Sp Tank": 146,
+  "Wall": 432,
+  "Ph Tank": 176,
+  "Name": "Simipour"
+ },
+ {
+  "Sp Sweeper": 194,
+  "Ph Sweeper": 157,
+  "Sp Tank": 145,
+  "Wall": 123,
+  "Ph Tank": 75,
+  "Name": "Munna"
+ },
+ {
+  "Sp Sweeper": 433,
+  "Ph Sweeper": 97,
+  "Sp Tank": 115,
+  "Wall": 80,
+  "Ph Tank": 434,
+  "Name": "Musharna"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 194,
+  "Sp Tank": 177,
+  "Wall": 151,
+  "Ph Tank": 82,
+  "Name": "Pidove"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 110,
+  "Sp Tank": 436,
+  "Wall": 155,
+  "Ph Tank": 160,
+  "Name": "Tranquill"
+ },
+ {
+  "Sp Sweeper": 231,
+  "Ph Sweeper": 137,
+  "Sp Tank": 110,
+  "Wall": 47,
+  "Ph Tank": 229,
+  "Name": "Unfezant"
+ },
+ {
+  "Sp Sweeper": 47,
+  "Ph Sweeper": 435,
+  "Sp Tank": 205,
+  "Wall": 437,
+  "Ph Tank": 112,
+  "Name": "Blitzle"
+ },
+ {
+  "Sp Sweeper": 122,
+  "Ph Sweeper": 132,
+  "Sp Tank": 190,
+  "Wall": 195,
+  "Ph Tank": 90,
+  "Name": "Zebstrika"
+ },
+ {
+  "Sp Sweeper": 438,
+  "Ph Sweeper": 110,
+  "Sp Tank": 130,
+  "Wall": 175,
+  "Ph Tank": 439,
+  "Name": "Roggenrola"
+ },
+ {
+  "Sp Sweeper": 55,
+  "Ph Sweeper": 299,
+  "Sp Tank": 35,
+  "Wall": 155,
+  "Ph Tank": 160,
+  "Name": "Boldore"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 20,
+  "Sp Tank": 441,
+  "Wall": 45,
+  "Ph Tank": 10,
+  "Name": "Gigalith"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 85,
+  "Sp Tank": 134,
+  "Wall": 156,
+  "Ph Tank": 163,
+  "Name": "Woobat"
+ },
+ {
+  "Sp Sweeper": 183,
+  "Ph Sweeper": 440,
+  "Sp Tank": 200,
+  "Wall": 442,
+  "Ph Tank": 127,
+  "Name": "Swoobat"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 80,
+  "Sp Tank": 148,
+  "Wall": 200,
+  "Ph Tank": 112,
+  "Name": "Drilbur"
+ },
+ {
+  "Sp Sweeper": 443,
+  "Ph Sweeper": 110,
+  "Sp Tank": 132,
+  "Wall": 115,
+  "Ph Tank": 444,
+  "Name": "Excadrill"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 266,
+  "Sp Tank": 232,
+  "Wall": 188,
+  "Ph Tank": 105,
+  "Name": "Audino"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 82,
+  "Sp Tank": 445,
+  "Wall": 182,
+  "Ph Tank": 225,
+  "Name": "Audino"
+ },
+ {
+  "Sp Sweeper": 288,
+  "Ph Sweeper": 172,
+  "Sp Tank": 215,
+  "Wall": 262,
+  "Ph Tank": 318,
+  "Name": "Timburr"
+ },
+ {
+  "Sp Sweeper": 212,
+  "Ph Sweeper": 445,
+  "Sp Tank": 125,
+  "Wall": 446,
+  "Ph Tank": 45,
+  "Name": "Gurdurr"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 165,
+  "Sp Tank": 120,
+  "Wall": 125,
+  "Ph Tank": 130,
+  "Name": "Conkeldurr"
+ },
+ {
+  "Sp Sweeper": 447,
+  "Ph Sweeper": 285,
+  "Sp Tank": 205,
+  "Wall": 110,
+  "Ph Tank": 448,
+  "Name": "Tympole"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 260,
+  "Sp Tank": 257,
+  "Wall": 210,
+  "Ph Tank": 185,
+  "Name": "Palpitoad"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 95,
+  "Sp Tank": 449,
+  "Wall": 252,
+  "Ph Tank": 233,
+  "Name": "Seismitoad"
+ },
+ {
+  "Sp Sweeper": 228,
+  "Ph Sweeper": 200,
+  "Sp Tank": 80,
+  "Wall": 104,
+  "Ph Tank": 188,
+  "Name": "Throh"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 448,
+  "Sp Tank": 230,
+  "Wall": 450,
+  "Ph Tank": 115,
+  "Name": "Sawk"
+ },
+ {
+  "Sp Sweeper": 159,
+  "Ph Sweeper": 210,
+  "Sp Tank": 185,
+  "Wall": 140,
+  "Ph Tank": 115,
+  "Name": "Sewaddle"
+ },
+ {
+  "Sp Sweeper": 451,
+  "Ph Sweeper": 150,
+  "Sp Tank": 155,
+  "Wall": 140,
+  "Ph Tank": 452,
+  "Name": "Swadloon"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 298,
+  "Sp Tank": 111,
+  "Wall": 255,
+  "Ph Tank": 135,
+  "Name": "Leavanny"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 95,
+  "Sp Tank": 454,
+  "Wall": 111,
+  "Ph Tank": 101,
+  "Name": "Venipede"
+ },
+ {
+  "Sp Sweeper": 128,
+  "Ph Sweeper": 185,
+  "Sp Tank": 151,
+  "Wall": 191,
+  "Ph Tank": 213,
+  "Name": "Whirlipede"
+ },
+ {
+  "Sp Sweeper": 171,
+  "Ph Sweeper": 453,
+  "Sp Tank": 172,
+  "Wall": 455,
+  "Ph Tank": 136,
+  "Name": "Scolipede"
+ },
+ {
+  "Sp Sweeper": 146,
+  "Ph Sweeper": 101,
+  "Sp Tank": 166,
+  "Wall": 162,
+  "Ph Tank": 115,
+  "Name": "Cottonee"
+ },
+ {
+  "Sp Sweeper": 456,
+  "Ph Sweeper": 171,
+  "Sp Tank": 160,
+  "Wall": 105,
+  "Ph Tank": 457,
+  "Name": "Whimsicott"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 218,
+  "Sp Tank": 70,
+  "Wall": 231,
+  "Ph Tank": 155,
+  "Name": "Petilil"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 115,
+  "Sp Tank": 459,
+  "Wall": 110,
+  "Ph Tank": 70,
+  "Name": "Lilligant"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 160,
+  "Sp Tank": 122,
+  "Wall": 102,
+  "Ph Tank": 170,
+  "Name": "Basculin"
+ },
+ {
+  "Sp Sweeper": 102,
+  "Ph Sweeper": 458,
+  "Sp Tank": 167,
+  "Wall": 460,
+  "Ph Tank": 152,
+  "Name": "Sandile"
+ },
+ {
+  "Sp Sweeper": 152,
+  "Ph Sweeper": 180,
+  "Sp Tank": 300,
+  "Wall": 177,
+  "Ph Tank": 162,
+  "Name": "Krokorok"
+ },
+ {
+  "Sp Sweeper": 460,
+  "Ph Sweeper": 112,
+  "Sp Tank": 170,
+  "Wall": 237,
+  "Ph Tank": 461,
+  "Name": "Krookodile"
+ },
+ {
+  "Sp Sweeper": 237,
+  "Ph Sweeper": 250,
+  "Sp Tank": 130,
+  "Wall": 220,
+  "Ph Tank": 130,
+  "Name": "Darumaka"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 162,
+  "Sp Tank": 463,
+  "Wall": 190,
+  "Ph Tank": 185,
+  "Name": "Darmanitan"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 245,
+  "Sp Tank": 175,
+  "Wall": 135,
+  "Ph Tank": 300,
+  "Name": "Darmanitan"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 462,
+  "Sp Tank": 270,
+  "Wall": 464,
+  "Ph Tank": 95,
+  "Name": "Maractus"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 220,
+  "Sp Tank": 275,
+  "Wall": 110,
+  "Ph Tank": 150,
+  "Name": "Dwebble"
+ },
+ {
+  "Sp Sweeper": 465,
+  "Ph Sweeper": 180,
+  "Sp Tank": 190,
+  "Wall": 225,
+  "Ph Tank": 466,
+  "Name": "Crustle"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 300,
+  "Sp Tank": 178,
+  "Wall": 227,
+  "Ph Tank": 180,
+  "Name": "Scraggy"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 160,
+  "Sp Tank": 468,
+  "Wall": 208,
+  "Ph Tank": 162,
+  "Name": "Scrafty"
+ },
+ {
+  "Sp Sweeper": 237,
+  "Ph Sweeper": 218,
+  "Sp Tank": 235,
+  "Wall": 130,
+  "Ph Tank": 295,
+  "Name": "Sigilyph"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 467,
+  "Sp Tank": 162,
+  "Wall": 469,
+  "Ph Tank": 211,
+  "Name": "Yamask"
+ },
+ {
+  "Sp Sweeper": 171,
+  "Ph Sweeper": 220,
+  "Sp Tank": 260,
+  "Wall": 172,
+  "Ph Tank": 205,
+  "Name": "Cofagrigus"
+ },
+ {
+  "Sp Sweeper": 470,
+  "Ph Sweeper": 145,
+  "Sp Tank": 195,
+  "Wall": 240,
+  "Ph Tank": 471,
+  "Name": "Tirtouga"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 228,
+  "Sp Tank": 190,
+  "Wall": 270,
+  "Ph Tank": 225,
+  "Name": "Carracosta"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 155,
+  "Sp Tank": 473,
+  "Wall": 140,
+  "Ph Tank": 220,
+  "Name": "Archen"
+ },
+ {
+  "Sp Sweeper": 275,
+  "Ph Sweeper": 125,
+  "Sp Tank": 130,
+  "Wall": 210,
+  "Ph Tank": 250,
+  "Name": "Archeops"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 472,
+  "Sp Tank": 150,
+  "Wall": 474,
+  "Ph Tank": 225,
+  "Name": "Trubbish"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 120,
+  "Sp Tank": 248,
+  "Wall": 210,
+  "Ph Tank": 205,
+  "Name": "Garbodor"
+ },
+ {
+  "Sp Sweeper": 475,
+  "Ph Sweeper": 210,
+  "Sp Tank": 175,
+  "Wall": 190,
+  "Ph Tank": 475,
+  "Name": "Zorua"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 230,
+  "Sp Tank": 95,
+  "Wall": 278,
+  "Ph Tank": 180,
+  "Name": "Zoroark"
+ },
+ {
+  "Sp Sweeper": 260,
+  "Ph Sweeper": 145,
+  "Sp Tank": 477,
+  "Wall": 115,
+  "Ph Tank": 200,
+  "Name": "Minccino"
+ },
+ {
+  "Sp Sweeper": 355,
+  "Ph Sweeper": 275,
+  "Sp Tank": 200,
+  "Wall": 145,
+  "Ph Tank": 315,
+  "Name": "Cinccino"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 476,
+  "Sp Tank": 150,
+  "Wall": 478,
+  "Ph Tank": 190,
+  "Name": "Gothita"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 225,
+  "Sp Tank": 204,
+  "Wall": 150,
+  "Ph Tank": 141,
+  "Name": "Gothorita"
+ },
+ {
+  "Sp Sweeper": 479,
+  "Ph Sweeper": 235,
+  "Sp Tank": 191,
+  "Wall": 127,
+  "Ph Tank": 479,
+  "Name": "Gothitelle"
+ },
+ {
+  "Sp Sweeper": 172,
+  "Ph Sweeper": 210,
+  "Sp Tank": 151,
+  "Wall": 264,
+  "Ph Tank": 212,
+  "Name": "Solosis"
+ },
+ {
+  "Sp Sweeper": 172,
+  "Ph Sweeper": 186,
+  "Sp Tank": 479,
+  "Wall": 191,
+  "Ph Tank": 172,
+  "Name": "Duosion"
+ },
+ {
+  "Sp Sweeper": 264,
+  "Ph Sweeper": 151,
+  "Sp Tank": 212,
+  "Wall": 151,
+  "Ph Tank": 264,
+  "Name": "Reuniclus"
+ },
+ {
+  "Sp Sweeper": 191,
+  "Ph Sweeper": 479,
+  "Sp Tank": 172,
+  "Wall": 479,
+  "Ph Tank": 191,
+  "Name": "Ducklett"
+ },
+ {
+  "Sp Sweeper": 151,
+  "Ph Sweeper": 212,
+  "Sp Tank": 264,
+  "Wall": 212,
+  "Ph Tank": 151,
+  "Name": "Swanna"
+ },
+ {
+  "Sp Sweeper": 479,
+  "Ph Sweeper": 172,
+  "Sp Tank": 170,
+  "Wall": 172,
+  "Ph Tank": 480,
+  "Name": "Vanillite"
+ },
+ {
+  "Sp Sweeper": 212,
+  "Ph Sweeper": 264,
+  "Sp Tank": 185,
+  "Wall": 335,
+  "Ph Tank": 205,
+  "Name": "Vanillish"
+ },
+ {
+  "Sp Sweeper": 205,
+  "Ph Sweeper": 191,
+  "Sp Tank": 482,
+  "Wall": 185,
+  "Ph Tank": 210,
+  "Name": "Vanilluxe"
+ },
+ {
+  "Sp Sweeper": 290,
+  "Ph Sweeper": 170,
+  "Sp Tank": 195,
+  "Wall": 240,
+  "Ph Tank": 215,
+  "Name": "Deerling"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 481,
+  "Sp Tank": 240,
+  "Wall": 483,
+  "Ph Tank": 240,
+  "Name": "Sawsbuck"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 210,
+  "Sp Tank": 310,
+  "Wall": 250,
+  "Ph Tank": 220,
+  "Name": "Emolga"
+ },
+ {
+  "Sp Sweeper": 484,
+  "Ph Sweeper": 195,
+  "Sp Tank": 207,
+  "Wall": 220,
+  "Ph Tank": 485,
+  "Name": "Karrablast"
+ },
+ {
+  "Sp Sweeper": 270,
+  "Ph Sweeper": 320,
+  "Sp Tank": 260,
+  "Wall": 303,
+  "Ph Tank": 236,
+  "Name": "Escavalier"
+ },
+ {
+  "Sp Sweeper": 196,
+  "Ph Sweeper": 250,
+  "Sp Tank": 487,
+  "Wall": 180,
+  "Ph Tank": 270,
+  "Name": "Foongus"
+ },
+ {
+  "Sp Sweeper": 330,
+  "Ph Sweeper": 167,
+  "Sp Tank": 220,
+  "Wall": 190,
+  "Ph Tank": 390,
+  "Name": "Amoonguss"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 486,
+  "Sp Tank": 220,
+  "Wall": 487,
+  "Ph Tank": 210,
+  "Name": "Frillish"
+ },
+ {
+  "Sp Sweeper": 210,
+  "Ph Sweeper": 190,
+  "Sp Tank": 370,
+  "Wall": 220,
+  "Ph Tank": 155,
+  "Name": "Jellicent"
+ },
+ {
+  "Sp Sweeper": 488,
+  "Ph Sweeper": 220,
+  "Sp Tank": 160,
+  "Wall": 190,
+  "Ph Tank": 489,
+  "Name": "Alomomola"
+ },
+ {
+  "Sp Sweeper": 205,
+  "Ph Sweeper": 350,
+  "Sp Tank": 200,
+  "Wall": 240,
+  "Ph Tank": 160,
+  "Name": "Joltik"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 160,
+  "Sp Tank": 491,
+  "Wall": 200,
+  "Ph Tank": 200,
+  "Name": "Galvantula"
+ },
+ {
+  "Sp Sweeper": 300,
+  "Ph Sweeper": 160,
+  "Sp Tank": 225,
+  "Wall": 215,
+  "Ph Tank": 250,
+  "Name": "Ferroseed"
+ },
+ {
+  "Sp Sweeper": 260,
+  "Ph Sweeper": 490,
+  "Sp Tank": 200,
+  "Wall": 492,
+  "Ph Tank": 200,
+  "Name": "Ferrothorn"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 200,
+  "Sp Tank": 250,
+  "Wall": 200,
+  "Ph Tank": 230,
+  "Name": "Klink"
+ },
+ {
+  "Sp Sweeper": 492,
+  "Ph Sweeper": 180,
+  "Sp Tank": 240,
+  "Wall": 178,
+  "Ph Tank": 493,
+  "Name": "Klang"
+ },
+ {
+  "Sp Sweeper": 195,
+  "Ph Sweeper": 300,
+  "Sp Tank": 200,
+  "Wall": 360,
+  "Ph Tank": 240,
+  "Name": "Klinklang"
+ },
+ {
+  "Sp Sweeper": 240,
+  "Ph Sweeper": 247,
+  "Sp Tank": 495,
+  "Wall": 200,
+  "Ph Tank": 200,
+  "Name": "Tynamo"
+ },
+ {
+  "Sp Sweeper": 300,
+  "Ph Sweeper": 240,
+  "Sp Tank": 100,
+  "Wall": 108,
+  "Ph Tank": 155,
+  "Name": "Eelektrik"
+ },
+ {
+  "Sp Sweeper": 108,
+  "Ph Sweeper": 494,
+  "Sp Tank": 135,
+  "Wall": 496,
+  "Ph Tank": 143,
+  "Name": "Eelektross"
+ },
+ {
+  "Sp Sweeper": 143,
+  "Ph Sweeper": 200,
+  "Sp Tank": 265,
+  "Wall": 135,
+  "Ph Tank": 188,
+  "Name": "Elgyem"
+ },
+ {
+  "Sp Sweeper": 497,
+  "Ph Sweeper": 100,
+  "Sp Tank": 90,
+  "Wall": 170,
+  "Ph Tank": 498,
+  "Name": "Beheeyem"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 210,
+  "Sp Tank": 148,
+  "Wall": 155,
+  "Ph Tank": 90,
+  "Name": "Litwick"
+ },
+ {
+  "Sp Sweeper": 108,
+  "Ph Sweeper": 188,
+  "Sp Tank": 500,
+  "Wall": 125,
+  "Ph Tank": 148,
+  "Name": "Lampent"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 108,
+  "Sp Tank": 165,
+  "Wall": 188,
+  "Ph Tank": 240,
+  "Name": "Chandelure"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 499,
+  "Sp Tank": 100,
+  "Wall": 501,
+  "Ph Tank": 108,
+  "Name": "Axew"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 125,
+  "Sp Tank": 195,
+  "Wall": 108,
+  "Ph Tank": 135,
+  "Name": "Fraxure"
+ },
+ {
+  "Sp Sweeper": 502,
+  "Ph Sweeper": 188,
+  "Sp Tank": 178,
+  "Wall": 135,
+  "Ph Tank": 503,
+  "Name": "Haxorus"
+ },
+ {
+  "Sp Sweeper": 143,
+  "Ph Sweeper": 145,
+  "Sp Tank": 97,
+  "Wall": 250,
+  "Ph Tank": 178,
+  "Name": "Cubchoo"
+ },
+ {
+  "Sp Sweeper": 185,
+  "Ph Sweeper": 143,
+  "Sp Tank": 505,
+  "Wall": 77,
+  "Ph Tank": 94,
+  "Name": "Beartic"
+ },
+ {
+  "Sp Sweeper": 123,
+  "Ph Sweeper": 170,
+  "Sp Tank": 129,
+  "Wall": 162,
+  "Ph Tank": 198,
+  "Name": "Cryogonal"
+ },
+ {
+  "Sp Sweeper": 137,
+  "Ph Sweeper": 504,
+  "Sp Tank": 105,
+  "Wall": 506,
+  "Ph Tank": 80,
+  "Name": "Shelmet"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 74,
+  "Sp Tank": 195,
+  "Wall": 70,
+  "Ph Tank": 140,
+  "Name": "Accelgor"
+ },
+ {
+  "Sp Sweeper": 507,
+  "Ph Sweeper": 154,
+  "Sp Tank": 125,
+  "Wall": 145,
+  "Ph Tank": 508,
+  "Name": "Stunfisk"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 135,
+  "Sp Tank": 116,
+  "Wall": 265,
+  "Ph Tank": 135,
+  "Name": "Mienfoo"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 95,
+  "Sp Tank": 510,
+  "Wall": 116,
+  "Ph Tank": 87,
+  "Name": "Mienshao"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 190,
+  "Sp Tank": 138,
+  "Wall": 194,
+  "Ph Tank": 164,
+  "Name": "Druddigon"
+ },
+ {
+  "Sp Sweeper": 194,
+  "Ph Sweeper": 509,
+  "Sp Tank": 101,
+  "Wall": 511,
+  "Ph Tank": 117,
+  "Name": "Golett"
+ },
+ {
+  "Sp Sweeper": 117,
+  "Ph Sweeper": 87,
+  "Sp Tank": 201,
+  "Wall": 101,
+  "Ph Tank": 199,
+  "Name": "Golurk"
+ },
+ {
+  "Sp Sweeper": 512,
+  "Ph Sweeper": 138,
+  "Sp Tank": 117,
+  "Wall": 161,
+  "Ph Tank": 513,
+  "Name": "Pawniard"
+ },
+ {
+  "Sp Sweeper": 161,
+  "Ph Sweeper": 146,
+  "Sp Tank": 199,
+  "Wall": 146,
+  "Ph Tank": 101,
+  "Name": "Bisharp"
+ },
+ {
+  "Sp Sweeper": 101,
+  "Ph Sweeper": 199,
+  "Sp Tank": 515,
+  "Wall": 199,
+  "Ph Tank": 161,
+  "Name": "Bouffalant"
+ },
+ {
+  "Sp Sweeper": 201,
+  "Ph Sweeper": 117,
+  "Sp Tank": 101,
+  "Wall": 117,
+  "Ph Tank": 146,
+  "Name": "Rufflet"
+ },
+ {
+  "Sp Sweeper": 117,
+  "Ph Sweeper": 514,
+  "Sp Tank": 161,
+  "Wall": 516,
+  "Ph Tank": 199,
+  "Name": "Braviary"
+ },
+ {
+  "Sp Sweeper": 199,
+  "Ph Sweeper": 161,
+  "Sp Tank": 176,
+  "Wall": 161,
+  "Ph Tank": 49,
+  "Name": "Vullaby"
+ },
+ {
+  "Sp Sweeper": 517,
+  "Ph Sweeper": 101,
+  "Sp Tank": 136,
+  "Wall": 70,
+  "Ph Tank": 518,
+  "Name": "Mandibuzz"
+ },
+ {
+  "Sp Sweeper": 122,
+  "Ph Sweeper": 201,
+  "Sp Tank": 98,
+  "Wall": 296,
+  "Ph Tank": 202,
+  "Name": "Heatmor"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 91,
+  "Sp Tank": 520,
+  "Wall": 79,
+  "Ph Tank": 105,
+  "Name": "Durant"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 84,
+  "Sp Tank": 92,
+  "Wall": 142,
+  "Ph Tank": 166,
+  "Name": "Deino"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 519,
+  "Sp Tank": 195,
+  "Wall": 521,
+  "Ph Tank": 158,
+  "Name": "Zweilous"
+ },
+ {
+  "Sp Sweeper": 208,
+  "Ph Sweeper": 66,
+  "Sp Tank": 109,
+  "Wall": 120,
+  "Ph Tank": 136,
+  "Name": "Hydreigon"
+ },
+ {
+  "Sp Sweeper": 522,
+  "Ph Sweeper": 139,
+  "Sp Tank": 196,
+  "Wall": 92,
+  "Ph Tank": 523,
+  "Name": "Larvesta"
+ },
+ {
+  "Sp Sweeper": 82,
+  "Ph Sweeper": 215,
+  "Sp Tank": 90,
+  "Wall": 201,
+  "Ph Tank": 143,
+  "Name": "Volcarona"
+ },
+ {
+  "Sp Sweeper": 163,
+  "Ph Sweeper": 126,
+  "Sp Tank": 525,
+  "Wall": 40,
+  "Ph Tank": 160,
+  "Name": "Cobalion"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 216,
+  "Sp Tank": 90,
+  "Wall": 125,
+  "Ph Tank": 215,
+  "Name": "Terrakion"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 524,
+  "Sp Tank": 265,
+  "Wall": 526,
+  "Ph Tank": 85,
+  "Name": "Virizion"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 50,
+  "Sp Tank": 141,
+  "Wall": 140,
+  "Ph Tank": 117,
+  "Name": "Tornadus"
+ },
+ {
+  "Sp Sweeper": 527,
+  "Ph Sweeper": 210,
+  "Sp Tank": 191,
+  "Wall": 88,
+  "Ph Tank": 528,
+  "Name": "Tornadus"
+ },
+ {
+  "Sp Sweeper": 98,
+  "Ph Sweeper": 295,
+  "Sp Tank": 153,
+  "Wall": 177,
+  "Ph Tank": 132,
+  "Name": "Thundurus"
+ },
+ {
+  "Sp Sweeper": 112,
+  "Ph Sweeper": 127,
+  "Sp Tank": 530,
+  "Wall": 98,
+  "Ph Tank": 125,
+  "Name": "Thundurus"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 171,
+  "Sp Tank": 115,
+  "Wall": 223,
+  "Ph Tank": 235,
+  "Name": "Reshiram"
+ },
+ {
+  "Sp Sweeper": 138,
+  "Ph Sweeper": 529,
+  "Sp Tank": 146,
+  "Wall": 531,
+  "Ph Tank": 110,
+  "Name": "Zekrom"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 75,
+  "Sp Tank": 355,
+  "Wall": 146,
+  "Ph Tank": 110,
+  "Name": "Landorus"
+ },
+ {
+  "Sp Sweeper": 531,
+  "Ph Sweeper": 195,
+  "Sp Tank": 60,
+  "Wall": 186,
+  "Ph Tank": 532,
+  "Name": "Landorus"
+ },
+ {
+  "Sp Sweeper": 206,
+  "Ph Sweeper": 275,
+  "Sp Tank": 145,
+  "Wall": 165,
+  "Ph Tank": 60,
+  "Name": "Kyurem"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 130,
+  "Sp Tank": 534,
+  "Wall": 80,
+  "Ph Tank": 190,
+  "Name": "Kyurem"
+ },
+ {
+  "Sp Sweeper": 220,
+  "Ph Sweeper": 115,
+  "Sp Tank": 120,
+  "Wall": 185,
+  "Ph Tank": 265,
+  "Name": "Kyurem"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 533,
+  "Sp Tank": 90,
+  "Wall": 535,
+  "Ph Tank": 114,
+  "Name": "Keldeo"
+ },
+ {
+  "Sp Sweeper": 114,
+  "Ph Sweeper": 90,
+  "Sp Tank": 185,
+  "Wall": 90,
+  "Ph Tank": 134,
+  "Name": "Keldeo"
+ },
+ {
+  "Sp Sweeper": 536,
+  "Ph Sweeper": 235,
+  "Sp Tank": 159,
+  "Wall": 120,
+  "Ph Tank": 537,
+  "Name": "Meloetta"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 130,
+  "Sp Tank": 145,
+  "Wall": 255,
+  "Ph Tank": 160,
+  "Name": "Meloetta"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 134,
+  "Sp Tank": 539,
+  "Wall": 75,
+  "Ph Tank": 185,
+  "Name": "Genesect"
+ },
+ {
+  "Sp Sweeper": 290,
+  "Ph Sweeper": 169,
+  "Sp Tank": 105,
+  "Wall": 210,
+  "Ph Tank": 225,
+  "Name": "Chespin"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 538,
+  "Sp Tank": 123,
+  "Wall": 540,
+  "Ph Tank": 82,
+  "Name": "Quilladin"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 115,
+  "Sp Tank": 225,
+  "Wall": 100,
+  "Ph Tank": 105,
+  "Name": "Chesnaught"
+ },
+ {
+  "Sp Sweeper": 541,
+  "Ph Sweeper": 200,
+  "Sp Tank": 162,
+  "Wall": 153,
+  "Ph Tank": 542,
+  "Name": "Fennekin"
+ },
+ {
+  "Sp Sweeper": 130,
+  "Ph Sweeper": 175,
+  "Sp Tank": 102,
+  "Wall": 235,
+  "Ph Tank": 150,
+  "Name": "Braixen"
+ },
+ {
+  "Sp Sweeper": 183,
+  "Ph Sweeper": 92,
+  "Sp Tank": 544,
+  "Wall": 87,
+  "Ph Tank": 104,
+  "Name": "Delphox"
+ },
+ {
+  "Sp Sweeper": 128,
+  "Ph Sweeper": 195,
+  "Sp Tank": 119,
+  "Wall": 102,
+  "Ph Tank": 218,
+  "Name": "Froakie"
+ },
+ {
+  "Sp Sweeper": 87,
+  "Ph Sweeper": 543,
+  "Sp Tank": 189,
+  "Wall": 545,
+  "Ph Tank": 167,
+  "Name": "Frogadier"
+ },
+ {
+  "Sp Sweeper": 212,
+  "Ph Sweeper": 69,
+  "Sp Tank": 150,
+  "Wall": 124,
+  "Ph Tank": 93,
+  "Name": "Greninja"
+ },
+ {
+  "Sp Sweeper": 546,
+  "Ph Sweeper": 154,
+  "Sp Tank": 193,
+  "Wall": 87,
+  "Ph Tank": 547,
+  "Name": "Bunnelby"
+ },
+ {
+  "Sp Sweeper": 87,
+  "Ph Sweeper": 218,
+  "Sp Tank": 65,
+  "Wall": 220,
+  "Ph Tank": 152,
+  "Name": "Diggersby"
+ },
+ {
+  "Sp Sweeper": 152,
+  "Ph Sweeper": 103,
+  "Sp Tank": 549,
+  "Wall": 100,
+  "Ph Tank": 85,
+  "Name": "Fletchling"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 183,
+  "Sp Tank": 185,
+  "Wall": 150,
+  "Ph Tank": 220,
+  "Name": "Fletchinder"
+ },
+ {
+  "Sp Sweeper": 200,
+  "Ph Sweeper": 548,
+  "Sp Tank": 157,
+  "Wall": 550,
+  "Ph Tank": 178,
+  "Name": "Talonflame"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 120,
+  "Sp Tank": 120,
+  "Wall": 135,
+  "Ph Tank": 137,
+  "Name": "Scatterbug"
+ },
+ {
+  "Sp Sweeper": 551,
+  "Ph Sweeper": 135,
+  "Sp Tank": 119,
+  "Wall": 107,
+  "Ph Tank": 552,
+  "Name": "Spewpa"
+ },
+ {
+  "Sp Sweeper": 70,
+  "Ph Sweeper": 190,
+  "Sp Tank": 209,
+  "Wall": 150,
+  "Ph Tank": 90,
+  "Name": "Vivillon"
+ },
+ {
+  "Sp Sweeper": 127,
+  "Ph Sweeper": 100,
+  "Sp Tank": 554,
+  "Wall": 157,
+  "Ph Tank": 197,
+  "Name": "Litleo"
+ },
+ {
+  "Sp Sweeper": 245,
+  "Ph Sweeper": 156,
+  "Sp Tank": 60,
+  "Wall": 140,
+  "Ph Tank": 160,
+  "Name": "Pyroar"
+ },
+ {
+  "Sp Sweeper": 65,
+  "Ph Sweeper": 553,
+  "Sp Tank": 195,
+  "Wall": 555,
+  "Ph Tank": 125,
+  "Name": "Flab\u00e9b\u00e9"
+ },
+ {
+  "Sp Sweeper": 235,
+  "Ph Sweeper": 135,
+  "Sp Tank": 315,
+  "Wall": 85,
+  "Ph Tank": 85,
+  "Name": "Floette"
+ },
+ {
+  "Sp Sweeper": 555,
+  "Ph Sweeper": 135,
+  "Sp Tank": 166,
+  "Wall": 135,
+  "Ph Tank": 556,
+  "Name": "Florges"
+ },
+ {
+  "Sp Sweeper": 245,
+  "Ph Sweeper": 215,
+  "Sp Tank": 120,
+  "Wall": 209,
+  "Ph Tank": 173,
+  "Name": "Skiddo"
+ },
+ {
+  "Sp Sweeper": 153,
+  "Ph Sweeper": 195,
+  "Sp Tank": 558,
+  "Wall": 90,
+  "Ph Tank": 150,
+  "Name": "Gogoat"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 146,
+  "Sp Tank": 140,
+  "Wall": 140,
+  "Ph Tank": 270,
+  "Name": "Pancham"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 557,
+  "Sp Tank": 145,
+  "Wall": 559,
+  "Ph Tank": 83,
+  "Name": "Pangoro"
+ },
+ {
+  "Sp Sweeper": 123,
+  "Ph Sweeper": 70,
+  "Sp Tank": 295,
+  "Wall": 105,
+  "Ph Tank": 148,
+  "Name": "Furfrou"
+ },
+ {
+  "Sp Sweeper": 560,
+  "Ph Sweeper": 220,
+  "Sp Tank": 200,
+  "Wall": 205,
+  "Ph Tank": 561,
+  "Name": "Espurr"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 190,
+  "Sp Tank": 60,
+  "Wall": 232,
+  "Ph Tank": 183,
+  "Name": "Meowstic"
+ },
+ {
+  "Sp Sweeper": 138,
+  "Ph Sweeper": 103,
+  "Sp Tank": 563,
+  "Wall": 85,
+  "Ph Tank": 115,
+  "Name": "Meowstic"
+ },
+ {
+  "Sp Sweeper": 188,
+  "Ph Sweeper": 155,
+  "Sp Tank": 200,
+  "Wall": 80,
+  "Ph Tank": 308,
+  "Name": "Honedge"
+ },
+ {
+  "Sp Sweeper": 125,
+  "Ph Sweeper": 562,
+  "Sp Tank": 181,
+  "Wall": 564,
+  "Ph Tank": 75,
+  "Name": "Doublade"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 120,
+  "Sp Tank": 272,
+  "Wall": 98,
+  "Ph Tank": 140,
+  "Name": "Aegislash"
+ },
+ {
+  "Sp Sweeper": 565,
+  "Ph Sweeper": 195,
+  "Sp Tank": 144,
+  "Wall": 241,
+  "Ph Tank": 566,
+  "Name": "Aegislash"
+ },
+ {
+  "Sp Sweeper": 148,
+  "Ph Sweeper": 202,
+  "Sp Tank": 250,
+  "Wall": 145,
+  "Ph Tank": 119,
+  "Name": "Spritzee"
+ },
+ {
+  "Sp Sweeper": 157,
+  "Ph Sweeper": 115,
+  "Sp Tank": 568,
+  "Wall": 222,
+  "Ph Tank": 205,
+  "Name": "Aromatisse"
+ },
+ {
+  "Sp Sweeper": 205,
+  "Ph Sweeper": 182,
+  "Sp Tank": 102,
+  "Wall": 115,
+  "Ph Tank": 174,
+  "Name": "Swirlix"
+ },
+ {
+  "Sp Sweeper": 105,
+  "Ph Sweeper": 567,
+  "Sp Tank": 177,
+  "Wall": 569,
+  "Ph Tank": 135,
+  "Name": "Slurpuff"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 177,
+  "Sp Tank": 120,
+  "Wall": 142,
+  "Ph Tank": 130,
+  "Name": "Inkay"
+ },
+ {
+  "Sp Sweeper": 570,
+  "Ph Sweeper": 112,
+  "Sp Tank": 225,
+  "Wall": 105,
+  "Ph Tank": 571,
+  "Name": "Malamar"
+ },
+ {
+  "Sp Sweeper": 120,
+  "Ph Sweeper": 244,
+  "Sp Tank": 125,
+  "Wall": 180,
+  "Ph Tank": 180,
+  "Name": "Binacle"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 145,
+  "Sp Tank": 573,
+  "Wall": 115,
+  "Ph Tank": 90,
+  "Name": "Barbaracle"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 210,
+  "Sp Tank": 125,
+  "Wall": 210,
+  "Ph Tank": 195,
+  "Name": "Skrelp"
+ },
+ {
+  "Sp Sweeper": 180,
+  "Ph Sweeper": 572,
+  "Sp Tank": 80,
+  "Wall": 574,
+  "Ph Tank": 100,
+  "Name": "Dragalge"
+ },
+ {
+  "Sp Sweeper": 75,
+  "Ph Sweeper": 80,
+  "Sp Tank": 215,
+  "Wall": 120,
+  "Ph Tank": 100,
+  "Name": "Clauncher"
+ },
+ {
+  "Sp Sweeper": 575,
+  "Ph Sweeper": 155,
+  "Sp Tank": 160,
+  "Wall": 115,
+  "Ph Tank": 576,
+  "Name": "Clawitzer"
+ },
+ {
+  "Sp Sweeper": 160,
+  "Ph Sweeper": 160,
+  "Sp Tank": 50,
+  "Wall": 275,
+  "Ph Tank": 205,
+  "Name": "Helioptile"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 130,
+  "Sp Tank": 578,
+  "Wall": 125,
+  "Ph Tank": 70,
+  "Name": "Heliolisk"
+ },
+ {
+  "Sp Sweeper": 135,
+  "Ph Sweeper": 120,
+  "Sp Tank": 185,
+  "Wall": 70,
+  "Ph Tank": 175,
+  "Name": "Tyrunt"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 577,
+  "Sp Tank": 140,
+  "Wall": 579,
+  "Ph Tank": 155,
+  "Name": "Tyrantrum"
+ },
+ {
+  "Sp Sweeper": 95,
+  "Ph Sweeper": 155,
+  "Sp Tank": 162,
+  "Wall": 210,
+  "Ph Tank": 99,
+  "Name": "Amaura"
+ },
+ {
+  "Sp Sweeper": 580,
+  "Ph Sweeper": 90,
+  "Sp Tank": 185,
+  "Wall": 94,
+  "Ph Tank": 581,
+  "Name": "Aurorus"
+ },
+ {
+  "Sp Sweeper": 94,
+  "Ph Sweeper": 270,
+  "Sp Tank": 94,
+  "Wall": 201,
+  "Ph Tank": 150,
+  "Name": "Sylveon"
+ },
+ {
+  "Sp Sweeper": 150,
+  "Ph Sweeper": 99,
+  "Sp Tank": 583,
+  "Wall": 109,
+  "Ph Tank": 100,
+  "Name": "Hawlucha"
+ },
+ {
+  "Sp Sweeper": 146,
+  "Ph Sweeper": 185,
+  "Sp Tank": 155,
+  "Wall": 124,
+  "Ph Tank": 191,
+  "Name": "Dedenne"
+ },
+ {
+  "Sp Sweeper": 139,
+  "Ph Sweeper": 582,
+  "Sp Tank": 180,
+  "Wall": 584,
+  "Ph Tank": 189,
+  "Name": "Carbink"
+ },
+ {
+  "Sp Sweeper": 174,
+  "Ph Sweeper": 125,
+  "Sp Tank": 160,
+  "Wall": 205,
+  "Ph Tank": 135,
+  "Name": "Goomy"
+ },
+ {
+  "Sp Sweeper": 585,
+  "Ph Sweeper": 130,
+  "Sp Tank": 155,
+  "Wall": 110,
+  "Ph Tank": 586,
+  "Name": "Sliggoo"
+ },
+ {
+  "Sp Sweeper": 90,
+  "Ph Sweeper": 251,
+  "Sp Tank": 178,
+  "Wall": 220,
+  "Ph Tank": 130,
+  "Name": "Goodra"
+ },
+ {
+  "Sp Sweeper": 170,
+  "Ph Sweeper": 115,
+  "Sp Tank": 588,
+  "Wall": 178,
+  "Ph Tank": 135,
+  "Name": "Klefki"
+ },
+ {
+  "Sp Sweeper": 175,
+  "Ph Sweeper": 195,
+  "Sp Tank": 85,
+  "Wall": 135,
+  "Ph Tank": 140,
+  "Name": "Phantump"
+ },
+ {
+  "Sp Sweeper": 100,
+  "Ph Sweeper": 587,
+  "Sp Tank": 240,
+  "Wall": 589,
+  "Ph Tank": 80,
+  "Name": "Trevenant"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 135,
+  "Sp Tank": 169,
+  "Wall": 165,
+  "Ph Tank": 70,
+  "Name": "Pumpkaboo"
+ },
+ {
+  "Sp Sweeper": 590,
+  "Ph Sweeper": 120,
+  "Sp Tank": 115,
+  "Wall": 100,
+  "Ph Tank": 591,
+  "Name": "Pumpkaboo"
+ },
+ {
+  "Sp Sweeper": 110,
+  "Ph Sweeper": 280,
+  "Sp Tank": 80,
+  "Wall": 264,
+  "Ph Tank": 165,
+  "Name": "Pumpkaboo"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 70,
+  "Sp Tank": 593,
+  "Wall": 105,
+  "Ph Tank": 90,
+  "Name": "Pumpkaboo"
+ },
+ {
+  "Sp Sweeper": 190,
+  "Ph Sweeper": 115,
+  "Sp Tank": 190,
+  "Wall": 120,
+  "Ph Tank": 275,
+  "Name": "Gourgeist"
+ },
+ {
+  "Sp Sweeper": 145,
+  "Ph Sweeper": 592,
+  "Sp Tank": 155,
+  "Wall": 594,
+  "Ph Tank": 105,
+  "Name": "Gourgeist"
+ },
+ {
+  "Sp Sweeper": 140,
+  "Ph Sweeper": 150,
+  "Sp Tank": 150,
+  "Wall": 85,
+  "Ph Tank": 112,
+  "Name": "Gourgeist"
+ },
+ {
+  "Sp Sweeper": 595,
+  "Ph Sweeper": 130,
+  "Sp Tank": 205,
+  "Wall": 97,
+  "Ph Tank": 596,
+  "Name": "Gourgeist"
+ },
+ {
+  "Sp Sweeper": 107,
+  "Ph Sweeper": 290,
+  "Sp Tank": 60,
+  "Wall": 190,
+  "Ph Tank": 157,
+  "Name": "Bergmite"
+ },
+ {
+  "Sp Sweeper": 137,
+  "Ph Sweeper": 122,
+  "Sp Tank": 598,
+  "Wall": 34,
+  "Ph Tank": 141,
+  "Name": "Avalugg"
+ },
+ {
+  "Sp Sweeper": 221,
+  "Ph Sweeper": 185,
+  "Sp Tank": 170,
+  "Wall": 114,
+  "Ph Tank": 321,
+  "Name": "Noibat"
+ },
+ {
+  "Sp Sweeper": 74,
+  "Ph Sweeper": 597,
+  "Sp Tank": 125,
+  "Wall": 599,
+  "Ph Tank": 75,
+  "Name": "Noivern"
+ },
+ {
+  "Sp Sweeper": 85,
+  "Ph Sweeper": 110,
+  "Sp Tank": 240,
+  "Wall": 105,
+  "Ph Tank": 130,
+  "Name": "Xerneas"
+ },
+ {
+  "Sp Sweeper": 600,
+  "Ph Sweeper": 225,
+  "Sp Tank": 160,
+  "Wall": 175,
+  "Ph Tank": 601,
+  "Name": "Yveltal"
+ },
+ {
+  "Sp Sweeper": 155,
+  "Ph Sweeper": 170,
+  "Sp Tank": 115,
+  "Wall": 260,
+  "Ph Tank": 155,
+  "Name": "Zygarde"
+ },
+ {
+  "Sp Sweeper": 215,
+  "Ph Sweeper": 120,
+  "Sp Tank": 603,
+  "Wall": 105,
+  "Ph Tank": 95,
+  "Name": "Diancie"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 190,
+  "Sp Tank": 145,
+  "Wall": 125,
+  "Ph Tank": 205,
+  "Name": "Diancie"
+ },
+ {
+  "Sp Sweeper": 115,
+  "Ph Sweeper": 602,
+  "Sp Tank": 195,
+  "Wall": 604,
+  "Ph Tank": 155,
+  "Name": "Hoopa"
+ },
+ {
+  "Sp Sweeper": 165,
+  "Ph Sweeper": 85,
+  "Sp Tank": 165,
+  "Wall": 185,
+  "Ph Tank": 85,
+  "Name": "Hoopa"
+ },
+ {
+  "Sp Sweeper": 605,
+  "Ph Sweeper": 155,
+  "Sp Tank": 165,
+  "Wall": 110,
+  "Ph Tank": 606,
+  "Name": "Volcanion"
+ }
+]

@@ -1,0 +1,510 @@
+2016-03-15 01:39:41,101  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:39:41,135  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:39:41,652  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:39:41,657  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:40:36,173  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:40:36,174  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:40:37,742  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:40:37,742  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:40:38,177  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:40:38,178  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:49:25,419  WARN [Worker-10] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:49:25,420  WARN [Worker-10] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:49:25,545  WARN [Worker-11] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:49:25,546  WARN [Worker-11] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:49:26,365  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:49:26,365  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:54:06,401  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:54:06,402  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 01:54:09,400 ERROR [Worker-1] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 01:54:09,401 ERROR [Worker-1] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 01:54:09,401 ERROR [Worker-1] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 01:55:40,184  WARN [Worker-14] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 01:55:40,185  WARN [Worker-14] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:09:29,703  WARN [Worker-17] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:09:29,705  WARN [Worker-17] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:04,166  WARN [Worker-24] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:04,168  WARN [Worker-24] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:04,335  WARN [Worker-25] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:04,336  WARN [Worker-25] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:04,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:04,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:31,889  WARN [Worker-23] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:31,890  WARN [Worker-23] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:32,005  WARN [Worker-17] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:32,005  WARN [Worker-17] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:11:32,626  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:11:32,626  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:26:53,902  WARN [Worker-28] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:26:53,904  WARN [Worker-28] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:26:54,510  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:26:54,510  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:17,134  WARN [Worker-29] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:17,134  WARN [Worker-29] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:17,252  WARN [Worker-27] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:17,253  WARN [Worker-27] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:18,024  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:18,024  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:31,793  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:31,793  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:31,798  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:31,798  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:31,870  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:31,870  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:31,984  WARN [Worker-27] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:31,985  WARN [Worker-27] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:27:32,387  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:27:32,387  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:58:31,104  WARN [Worker-28] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:58:31,107  WARN [Worker-28] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:58:31,676  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:58:31,676  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:59:11,626  WARN [Worker-34] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:59:11,626  WARN [Worker-34] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:59:11,739  WARN [Worker-35] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:59:11,739  WARN [Worker-35] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 02:59:12,596  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 02:59:12,596  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:11:13,803  WARN [Worker-35] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:11:13,805  WARN [Worker-35] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:11:14,347  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:11:14,348  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:11:52,931  WARN [Worker-35] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:11:52,931  WARN [Worker-35] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:11:53,055  WARN [Worker-40] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:11:53,056  WARN [Worker-40] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:11:53,730  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:11:53,730  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:13:07,038  WARN [Worker-40] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:13:07,039  WARN [Worker-40] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:16:51,167  WARN [Worker-35] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:16:51,169  WARN [Worker-35] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:20:18,841  WARN [Worker-40] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:20:18,842  WARN [Worker-40] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:20:19,562  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:20:19,563  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:20:39,031  WARN [Worker-35] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:20:39,032  WARN [Worker-35] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:21:41,640 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:21:41,641 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:21:41,641 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:24:43,643  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:24:43,644  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:24:43,649  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:24:43,649  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:24:57,320 ERROR [Worker-0] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 03:24:57,320 ERROR [Worker-0] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 03:24:57,321 ERROR [Worker-0] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 03:25:53,433  WARN [Worker-4] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:25:53,433  WARN [Worker-4] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:26:56,685  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:26:56,686  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:26:57,249  WARN [Worker-3] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:26:57,250  WARN [Worker-3] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:27:11,935  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:27:11,937  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:27:12,858  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:27:12,858  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:27:13,045  WARN [Worker-3] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:27:13,046  WARN [Worker-3] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:27:37,044  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:27:37,045  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:27:43,079 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:27:43,306 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:27:43,307 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:27:43,308 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-15 03:27:47,549  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:27:47,549  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:28:20,385  WARN [Worker-6] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:28:20,386  WARN [Worker-6] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:35:39,729  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:35:39,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:39:41,087  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:39:41,088  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:39:41,837  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 03:39:41,837  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 03:45:56,974  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for PokeANN, setting default to 2.11.
+2016-03-15 13:49:35,394 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 13:49:35,400 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 13:49:35,401 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 13:50:34,371  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:34,372  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:34,393  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:34,393  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:34,389  WARN [Worker-2] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:34,395  WARN [Worker-2] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:36,060  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:36,060  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:39,674  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:39,674  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:40,008  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:40,008  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:40,014  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:40,014  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 13:50:42,558  WARN [Worker-5] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 13:50:42,558  WARN [Worker-5] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 14:07:42,140  WARN [Worker-2] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 14:07:42,140  WARN [Worker-2] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 14:12:35,312  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 14:12:35,313  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 14:12:36,499  WARN [Worker-7] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 14:12:36,499  WARN [Worker-7] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 14:12:36,984  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 14:12:36,984  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:25:24,859  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:25:24,861  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:25:25,893  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:25:25,894  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:25:55,841  WARN [ModalContext] - ScalaProject - Project Tesst has platform default sourceLevel.
+2016-03-15 15:25:55,842  WARN [ModalContext] - ScalaProject - Project Tesst runs on platform default installation.
+2016-03-15 15:25:56,165  WARN [Worker-4] - ScalaProject - Project Tesst has platform default sourceLevel.
+2016-03-15 15:25:56,166  WARN [Worker-4] - ScalaProject - Project Tesst runs on platform default installation.
+2016-03-15 15:27:16,892  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:27:16,894  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:27:17,098  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:27:17,098  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:29:39,133  WARN [Worker-3] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:29:39,134  WARN [Worker-3] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:29:39,257  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:29:39,257  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:29:39,769 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error in Scala compiler
+scala.reflect.internal.FatalError: /Users/Joel/Desktop/Joel's Poke Suite/Phase 2/PokeANN/src does not exist or is not a directory
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.checkDir(MutableSettings.scala:271)
+	at scala.tools.nsc.settings.MutableSettings$OutputDirs.add(MutableSettings.scala:261)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:72)
+	at xsbt.CachedCompiler0$$anonfun$2.apply(CompilerInterface.scala:71)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at xsbt.CachedCompiler0.<init>(CompilerInterface.scala:71)
+	at xsbt.CompilerInterface.newCompiler(CompilerInterface.scala:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:483)
+	at sbt.compiler.AnalyzingCompiler.call(AnalyzingCompiler.scala:101)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:56)
+	at sbt.compiler.AnalyzingCompiler.newCachedCompiler(AnalyzingCompiler.scala:51)
+	at sbt.compiler.CompilerCache$$anon$2.apply(CompilerCache.scala:47)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:39)
+	at sbt.compiler.AggressiveCompile$$anonfun$3$$anonfun$compileScala$1$1.apply$mcV$sp(AggressiveCompile.scala:95)
+	at sbt.compiler.AggressiveCompile$$anonfun$3$$anonfun$compileScala$1$1.apply(AggressiveCompile.scala:95)
+	at sbt.compiler.AggressiveCompile$$anonfun$3$$anonfun$compileScala$1$1.apply(AggressiveCompile.scala:95)
+	at sbt.compiler.AggressiveCompile.sbt$compiler$AggressiveCompile$$timed(AggressiveCompile.scala:165)
+	at sbt.compiler.AggressiveCompile$$anonfun$3.compileScala$1(AggressiveCompile.scala:94)
+	at sbt.compiler.AggressiveCompile$$anonfun$3.apply(AggressiveCompile.scala:142)
+	at sbt.compiler.AggressiveCompile$$anonfun$3.apply(AggressiveCompile.scala:84)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:66)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:64)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:31)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:62)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:61)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:89)
+	at sbt.inc.Incremental$.compile(Incremental.scala:61)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.AggressiveCompile.compile2(AggressiveCompile.scala:156)
+	at sbt.compiler.AggressiveCompile.compile1(AggressiveCompile.scala:68)
+	at sbt.compiler.AggressiveCompile.apply(AggressiveCompile.scala:43)
+	at org.scalaide.util.internal.Suppress$DeprecatedWarning$$anonfun$aggressivelyCompile$1.apply(Suppress.scala:72)
+	at org.scalaide.util.internal.Suppress$DeprecatedWarning$$anonfun$aggressivelyCompile$1.apply(Suppress.scala:72)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.aggressiveCompile(EclipseSbtBuildManager.scala:221)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.runCompiler(EclipseSbtBuildManager.scala:146)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.update(EclipseSbtBuildManager.scala:128)
+	at org.scalaide.core.internal.builder.zinc.EclipseSbtBuildManager.build(EclipseSbtBuildManager.scala:88)
+	at org.scalaide.core.internal.project.scopes.BuildScopeUnit.build(BuildScopeUnit.scala:73)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:53)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager$$anonfun$build$1.apply(SbtScopesBuildManager.scala:50)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at org.scalaide.core.internal.project.SbtScopesBuildManager.build(SbtScopesBuildManager.scala:50)
+	at org.scalaide.core.internal.project.ScalaProject.build(ScalaProject.scala:619)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:117)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+2016-03-15 15:29:56,133  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:29:56,133  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:30:28,403  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:30:28,403  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:30:28,552  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:30:28,552  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:35:40,160  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:35:40,161  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:35:40,279  WARN [Worker-2] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:35:40,280  WARN [Worker-2] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:35:51,966  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:35:51,967  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:35:52,754  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:35:52,755  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:35:52,951  WARN [Worker-4] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:35:52,951  WARN [Worker-4] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:36:21,807  WARN [Worker-3] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:36:21,811  WARN [Worker-3] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:36:23,405 ERROR [Worker-2] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 15:36:23,405 ERROR [Worker-2] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 15:36:23,405 ERROR [Worker-2] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 15:40:29,027  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:40:29,028  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:40:29,031  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:40:29,031  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:40:31,418  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:40:31,418  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:40:31,454  WARN [main] - ScalaProject - Project Tesst has platform default sourceLevel.
+2016-03-15 15:40:31,454  WARN [main] - ScalaProject - Project Tesst runs on platform default installation.
+2016-03-15 15:40:55,374  WARN [Worker-2] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:40:55,375  WARN [Worker-2] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:47:15,605  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:47:15,606  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:47:15,906  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:47:15,906  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:48:10,121  WARN [ModalContext] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:48:10,123  WARN [ModalContext] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:48:10,269  WARN [Worker-2] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:48:10,269  WARN [Worker-2] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:48:45,462  WARN [Worker-5] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:48:45,463  WARN [Worker-5] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:49:18,345  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:49:18,345  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:49:20,550  WARN [main] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:49:20,551  WARN [main] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:49:20,785  WARN [Worker-3] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:49:20,785  WARN [Worker-3] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:50:01,728 ERROR [Worker-4] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 15:50:01,729 ERROR [Worker-4] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 15:50:01,729 ERROR [Worker-4] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 15:50:19,403  WARN [Worker-4] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:50:19,407  WARN [Worker-4] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:51:42,033  WARN [Worker-5] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:51:42,033  WARN [Worker-5] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:51:50,429  WARN [Worker-2] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:51:50,430  WARN [Worker-2] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:52:10,870  WARN [Worker-4] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:52:10,870  WARN [Worker-4] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:52:24,695  WARN [Worker-0] - ScalaProject - Project prog has platform default sourceLevel.
+2016-03-15 15:52:24,695  WARN [Worker-0] - ScalaProject - Project prog runs on platform default installation.
+2016-03-15 15:53:56,145  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:53:56,145  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:53:56,151  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:53:56,151  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:00,544  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:00,546  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:01,451  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:01,452  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:01,711  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:01,714  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:01,790  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:01,790  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:02,019  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:02,020  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:20,611  WARN [ModalContext] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:20,612  WARN [ModalContext] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:20,860  WARN [Worker-5] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:20,860  WARN [Worker-5] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:30,874  WARN [Worker-1] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:30,874  WARN [Worker-1] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:39,707  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:39,708  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:44,717  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:44,717  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:57:45,032  WARN [Worker-5] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:57:45,033  WARN [Worker-5] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:58:26,656  WARN [Worker-2] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:58:26,656  WARN [Worker-2] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-15 15:58:29,912 ERROR [Worker-2] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-03-15 15:58:29,912 ERROR [Worker-2] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-03-15 15:58:29,912 ERROR [Worker-2] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2016-03-15 15:59:37,859  WARN [Worker-0] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-15 15:59:37,859  WARN [Worker-0] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:28:49,280  WARN [Worker-57] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:28:49,283  WARN [Worker-57] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:31:36,969 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:31:36,970 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:31:36,970 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:32:42,064  WARN [Worker-62] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:32:42,065  WARN [Worker-62] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:33:52,287  WARN [Worker-59] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:33:52,288  WARN [Worker-59] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:34:19,228 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:34:19,229 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:34:19,230 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 14:34:28,144  WARN [Worker-59] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:34:28,145  WARN [Worker-59] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:53:52,822  WARN [Worker-69] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:53:52,823  WARN [Worker-69] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:55:00,288  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:55:00,289  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 14:55:00,459  WARN [Worker-69] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 14:55:00,460  WARN [Worker-69] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 15:10:20,680  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 15:10:20,680  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 15:10:20,947  WARN [Worker-75] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 15:10:20,947  WARN [Worker-75] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 15:35:08,536  WARN [main] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 15:35:08,538  WARN [main] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 15:35:08,703  WARN [Worker-90] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 15:35:08,703  WARN [Worker-90] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 15:48:27,220  WARN [Worker-99] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 15:48:27,220  WARN [Worker-99] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 16:29:21,120  WARN [Worker-107] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 16:29:21,120  WARN [Worker-107] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 16:59:45,799  WARN [Worker-124] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 16:59:45,805  WARN [Worker-124] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:00:02,868  WARN [Worker-125] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:00:02,868  WARN [Worker-125] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:00:29,979 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:00:29,979 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:00:29,980 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:03:44,821  WARN [Worker-130] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:03:44,821  WARN [Worker-130] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:03:52,736  WARN [Worker-124] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:03:52,736  WARN [Worker-124] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:04:03,577  WARN [Worker-125] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:04:03,577  WARN [Worker-125] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:04:28,915  WARN [Worker-129] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:04:28,915  WARN [Worker-129] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:07:43,346  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 409
+2016-03-16 17:07:44,389  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 411
+2016-03-16 17:08:07,593  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 402
+2016-03-16 17:08:10,142  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 412
+2016-03-16 17:08:13,697  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 402
+2016-03-16 17:08:14,729  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 404
+2016-03-16 17:08:17,266  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 413
+2016-03-16 17:08:24,322  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 391
+2016-03-16 17:08:28,367  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 407
+2016-03-16 17:08:38,127  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 403
+2016-03-16 17:08:39,654  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 408
+2016-03-16 17:08:44,720  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 418
+2016-03-16 17:24:03,019  WARN [Worker-135] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:24:03,020  WARN [Worker-135] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:24:09,274  WARN [Worker-135] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:24:09,275  WARN [Worker-135] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:26:43,353  WARN [Worker-144] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:26:43,353  WARN [Worker-144] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:28:16,322 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:16,324 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:16,324 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:48,807 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:48,807 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:48,807 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:28:57,535  WARN [Worker-144] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:28:57,535  WARN [Worker-144] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:35:35,198  WARN [Worker-150] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:35:35,198  WARN [Worker-150] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:36:37,672  WARN [Worker-152] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:36:37,672  WARN [Worker-152] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:37:54,140 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:37:54,209 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:37:54,210 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:37:54,210 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 17:39:08,212  WARN [Worker-156] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:08,212  WARN [Worker-156] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:39:32,211  WARN [Worker-152] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:32,211  WARN [Worker-152] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:39:34,861  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:34,862  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:39:36,700  WARN [Worker-157] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:36,701  WARN [Worker-157] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:39:44,814  WARN [Worker-152] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:44,814  WARN [Worker-152] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:39:55,933  WARN [Worker-155] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:39:55,934  WARN [Worker-155] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:40:40,830  WARN [Worker-156] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:40:40,831  WARN [Worker-156] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:44:39,272  WARN [Worker-152] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:44:39,275  WARN [Worker-152] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:44:55,427  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:44:55,427  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:54:26,870  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:54:26,871  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 17:55:07,933  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 17:55:07,933  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:05:31,203  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:05:31,204  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:05:48,833  WARN [Worker-167] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:05:48,834  WARN [Worker-167] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:06:21,921  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 18:08:43,534  WARN [Worker-164] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:08:43,535  WARN [Worker-164] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:08:45,858  WARN [Worker-165] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:08:45,859  WARN [Worker-165] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:09:52,934  WARN [Worker-164] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:09:52,935  WARN [Worker-164] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:13:02,929  WARN [Worker-170] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:13:02,930  WARN [Worker-170] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:16:47,810  WARN [Worker-171] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:16:47,812  WARN [Worker-171] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:17:02,056  WARN [Worker-170] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:17:02,056  WARN [Worker-170] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:17:59,229  WARN [Worker-154] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:17:59,234  WARN [Worker-154] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:18:17,354 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:18:17,354 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:18:17,354 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:21:24,643  WARN [Worker-175] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:21:24,644  WARN [Worker-175] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:21:38,182  WARN [Worker-170] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:21:38,182  WARN [Worker-170] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:27:45,449  WARN [Worker-180] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:27:45,450  WARN [Worker-180] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:28:46,681  WARN [Worker-175] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:28:46,683  WARN [Worker-175] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:31:28,975 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:31:28,976 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:31:28,976 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:31:56,582  WARN [Worker-183] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:31:56,582  WARN [Worker-183] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:41:40,796 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:41:40,797 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:41:40,797 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:44:02,016 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:44:02,076 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:44:02,077 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:44:02,077 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:44:33,944  WARN [Worker-191] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:44:33,944  WARN [Worker-191] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:44:39,506  WARN [Worker-189] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:44:39,507  WARN [Worker-189] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:45:27,872  WARN [Worker-193] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:45:27,873  WARN [Worker-193] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:46:06,641 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:46:06,641 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:49:18,389  WARN [Worker-194] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:49:18,391  WARN [Worker-194] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:51:48,589  WARN [Worker-194] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:51:48,590  WARN [Worker-194] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:56:52,510 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:56:52,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:56:52,511 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:57:20,539  WARN [Worker-201] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:57:20,539  WARN [Worker-201] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:57:52,225  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 18:57:52,459  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 18:58:00,975 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:58:01,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:58:01,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:58:01,043 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-03-16 18:58:04,107  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 18:59:33,247  WARN [Worker-205] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:59:33,247  WARN [Worker-205] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 18:59:52,454  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 18:59:55,056  WARN [Worker-205] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 18:59:55,056  WARN [Worker-205] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 19:00:25,612  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:29,350  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:29,598  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:32,219  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:32,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:32,684  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-03-16 19:00:38,097  WARN [Worker-201] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 19:00:38,097  WARN [Worker-201] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 19:02:24,538  WARN [Worker-206] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 19:02:24,539  WARN [Worker-206] - ScalaProject - Project PokeANN runs on platform default installation.
+2016-03-16 19:03:14,324  WARN [Worker-207] - ScalaProject - Project PokeANN has platform default sourceLevel.
+2016-03-16 19:03:14,324  WARN [Worker-207] - ScalaProject - Project PokeANN runs on platform default installation.

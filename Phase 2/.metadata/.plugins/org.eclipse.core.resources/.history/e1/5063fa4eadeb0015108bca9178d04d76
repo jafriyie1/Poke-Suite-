@@ -1,0 +1,9 @@
+package main
+
+import breeze.linalg._
+object Test {
+  def main(args: Array[String]) = {
+  val x = DenseVector.zeros[Double](5)
+  println(x)
+  }
+}

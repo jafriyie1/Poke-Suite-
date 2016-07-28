@@ -1,0 +1,37 @@
+package main
+
+import breeze.numerics._
+import breeze.linalg._
+class NeuralNetwork(layer1: NeuronLayer, layer2: NeuronLayer) {
+  
+  private def sigmoid(x: Double) = {
+    1 / (1 + exp(-x))
+  }
+  
+  private def sigmoid_derivative(x: Double) = {
+    x * (1-x)
+  }
+ 
+ def think(inputs: DenseVector[Double])
+ {
+   var new_input = inputs
+   var output_layer_one = this.sigmoid(new_input dot this.layer1.computeSynapse())
+   var output_layer_two = this.sigmoid(output_layer_one dot this.layer2.computeSynapse())
+ }
+ def train(training_set_inputs: DenseVector[Double], training_set_outputs: DenseVector[Double], num_iterations: Int) = { 
+   for(iterations<- 0 to num_iterations) 
+   {
+     var output_layer1, output_layer2 = this.think(training_set_inputs)
+     
+     var layer2_error = training_set_outputs - output_layer2
+     var layer2_delta = layer2_error * this.sigmoid_derivative(output_layer2)
+     
+     var layer1_error = layer2_delta dot this.layer2.computeSynapse()
+     var layer1_detla = layer1_error * this.sigmoid_derivative(output_layer1)
+     
+     
+     
+   }
+ }
+  
+}

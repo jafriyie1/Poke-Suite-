@@ -1,0 +1,20 @@
+package main
+
+import breeze.numerics._
+import breeze.linalg._
+class NeuralNetwork(layer1: NeuronLayer, layer2: NeuronLayer) {
+  
+  private def sigmoid(x: Double) = {
+    1 / (1 + exp(-x))
+  }
+  
+  private def sigmoid_derivative(x: Double) = {
+    x * (1-x)
+  }
+  
+ def train(training_set_inputs: Int) = {
+   val x = training_set_inputs
+   println(x)
+ }
+  
+}
