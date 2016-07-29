@@ -14,7 +14,7 @@ for line in poke_tweet:
 
 
 poke_tweet.close()
-with open("final_poke_tweets.json", "w") as objectfile:
+with open("/Users/Joel/Desktop/Tweet Data/final_poke_tweets.json", "w") as objectfile:
     json.dump(tweets, objectfile, indent=4)
 
 print("Done")
