@@ -1,6 +1,8 @@
 #= I have decided for the time being to not use
 Julia for text analysis. An ecosystem still needs
-to be built for optimization before I will use the language=#
+to be built for optimization before I will use the language.
+Python was a lot quicker in loading the data and it used a lot less
+RAM and CPU=#
 using DataFrames
 using JSON
 
