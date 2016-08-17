@@ -1,0 +1,61 @@
+Top ten terms per cluster. 
+Cluster0: 
+ pokemon
+ https
+ rt
+ catch
+ pokemongo
+ playing
+ like
+ video
+ youtube
+ just
+
+Cluster1: 
+ people
+ pokemon
+ rt
+ playing
+ fact
+ asap
+ troubling
+ deleting
+ https
+ like
+
+Cluster2: 
+ play
+ pokemon
+ rt
+ https
+ told
+ omgtsn
+ 1wontbddqv
+ parents
+ lol
+ wanna
+
+Cluster3: 
+ rare
+ rt
+ https
+ broken
+ step
+ nearby
+ catchemali
+ bmchh7mwn1
+ qabriels
+ takei
+
+Cluster4: 
+ rt
+ glockachu
+ yard
+ 21savaage
+ gone
+ come
+ trained
+ looking
+ night
+ pokemon
+
