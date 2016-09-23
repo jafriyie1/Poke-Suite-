@@ -8,7 +8,6 @@ from nltk.corpus import stopwords
 
 stop = stopwords.words('english')
 df = pd.read_json("/Users/Joel/Desktop/Tweets/final_poke_tweets.json")
-extend_func = lambda x : lambda y: y(x)
 
 def transform_data_for_processing(data):
     #Transforms twiiter data into a list of words
@@ -20,15 +19,6 @@ def transform_data_for_processing(data):
         adj_temp = [i for i in temp if i not in stop]
         alist.append(temp.split())
     return alist
-
-def tokenize_data(alist):
-    #Tokenizes data from a list
-    token_list = []
-    for line in alist:
-        y = str(line.split())
-        text = nltk.word_tokenize(y)
-        token_list.append(nltk.pos_tag(y))
-    return token_list
 
 
 """Columns

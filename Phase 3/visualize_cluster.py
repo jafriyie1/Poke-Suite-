@@ -13,7 +13,6 @@ text_data = df["text"].fillna('')
 
 vect = TfidfVectorizer(stop_words='english')
 final_text_data = vect.fit_transform(text_data)
-#print(final_text_data[1])
 
 true_k = 5
 model = pickle.load(open('/Users/Joel/Desktop/Tweets/kmeans.pkl', 'rb+'))
@@ -21,8 +20,10 @@ model = pickle.load(open('/Users/Joel/Desktop/Tweets/kmeans.pkl', 'rb+'))
 print('Top terms per cluster:')
 order_centroids = model.cluster_centers_.argsort()[:,::-1]
 terms = vect.get_feature_names()
+
 f = open('Top10Cluster.txt', 'w')
 f.write("Top ten terms per cluster. \n")
+
 print("Top ten terms per cluster.")
 for i in range(true_k):
     print("Cluster %d: " % i)
